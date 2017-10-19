@@ -16,5 +16,7 @@ Türkçe Derin Öğrenme Kaynakları
 ## ÇATI (FRAMEWORK)
 ### Caffe
 * [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
+
+### PyTorch
 * [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) [Özgün Genç]
 
