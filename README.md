@@ -1,4 +1,4 @@
-# turkce-derin-ogrenme-kaynaklari
+Türkçe Derin Öğrenme Kaynakları
 
 Deneme1
 
