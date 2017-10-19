@@ -27,4 +27,3 @@ Türkçe Derin Öğrenme Kaynakları
 
 ### Tahmin
 * [Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations](http://www.sciencedirect.com/science/article/pii/S0950705117304252) (Hakan Gündüz, Yusuf Yaslan, Zehra Çataltepe)
-
