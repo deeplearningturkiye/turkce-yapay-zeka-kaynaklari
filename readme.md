@@ -1,5 +1,6 @@
 Türkçe Derin Öğrenme Kaynakları
 
-Deneme1
+#h1 Yapay Sinir Ağları (Artificial Neural Networks: ANN)
+Yapay Sinir Ağlarına Giriş: http://www.ardamavi.com/2017/07/sinir-aglari.html
 
-Deneme 2
+##h2 Evrişimli Sinir Ağları (Convolutional Neural Networks: CNN)
