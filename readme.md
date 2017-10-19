@@ -20,3 +20,11 @@ Türkçe Derin Öğrenme Kaynakları
 ### PyTorch
 * [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) (Özgün Genç)
 
+## BİLİMSEL MAKALELER
+# Türkçe Doğal Dil İşleme
+* [Linguistic features in Turkish word representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
+* [Morphological Embeddings for Named Entity Recognition in Morphologically Rich Languages](https://arxiv.org/abs/1706.00506) (Onur Güngör, Eray Yıldız, Suzan Üsküdarlı, Tunga Güngör)
+
+# Tahmin
+* [Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations](http://www.sciencedirect.com/science/article/pii/S0950705117304252) (Hakan Gündüz, Yusuf Yaslan, Zehra Çataltepe)
+
