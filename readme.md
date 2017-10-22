@@ -4,6 +4,11 @@ Sayfaya yeni kaynak eklemek için:
 1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan "Raw Blame History" butonlarının hemen yanında bulunan "Edit This File" butonuna tıklayın.
 2. Sayfada güncelleme yaptıktan sonra en altta bulunan "Commit changes" butonuna tıklayın.
 
+## TEMELLER
+* [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
+* [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
+* [Bilgisayarda Görüntü Ve Sayı Dizileri](http://www.ardamavi.com/2017/07/bilgisyarda-goruntu-ve-sayi-dizileri.html) (Arda Mavi)
+
 ## ALGORİTMALAR
 
 ### Algoritmalar için Püf Noktaları
