@@ -17,6 +17,10 @@ Türkçe Derin Öğrenme Kaynakları
 ### Doğal Dil İşleme (Natural Language Processing)
 * [Keras ile Duygu Analizi](http://derindelimavi.blogspot.com.tr/2017/10/keras-ile-duygu-analizi.html) (Birol Kuyumcu)
 
+### Siber Güvenlik (Cyber Security)
+* [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
+](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
+
 ## ÇATI (FRAMEWORK)
 ### Caffe
 * [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
@@ -31,3 +35,7 @@ Türkçe Derin Öğrenme Kaynakları
 
 ### Tahmin
 * [Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations](http://www.sciencedirect.com/science/article/pii/S0950705117304252) (Hakan Gündüz, Yusuf Yaslan, Zehra Çataltepe)
+
+### Siber Güvenlik
+* [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
+](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
