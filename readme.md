@@ -1,4 +1,4 @@
-Bu sayfada Türkiye'de derin öğrenme (deep learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) görebilirsiniz. Sayfa Deep Learning Türkiye topluluğu tarafından hazırlanmaktadır.
+Bu sayfada Türkiye'de derin öğrenme (deep learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) görebilirsiniz. Sayfa **Deep Learning Türkiye** topluluğu tarafından hazırlanmaktadır.
 
 Sayfaya yeni kaynak eklemek için:
 1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan "Raw Blame History" butonlarının hemen yanında bulunan "Edit This File" butonuna tıklayın.
@@ -40,7 +40,7 @@ Sayfaya yeni kaynak eklemek için:
 
 ## BİLİMSEL MAKALELER
 ### Bilgisayarlı Görü (Computer Vision)
-* [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11)(Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
