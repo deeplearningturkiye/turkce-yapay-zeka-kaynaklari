@@ -1,6 +1,10 @@
 Türkçe Derin Öğrenme Kaynakları
 
 ## ALGORİTMALAR
+
+### Algoritmalar için Püf Noktaları
+* [Derin Öğrenme Uygulamalarında Başarım İyileştirme (Regularization) Yöntemleri](https://www.linkedin.com/pulse/derin-%C3%B6%C4%9Frenme-uygulamlar%C4%B1nda-ba%C5%9Far%C4%B1m-iyile%C5%9Ftirme-necmettin-%C3%A7arkac%C4%B1/) (Necmettin Çarkacı)
+
 ### Yapay Sinir Ağları (Artificial Neural Networks)
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
 * [Yapay Sinir Ağları](http://www.akanesen.com/2017/09/yapay-sinir-aglar.html) (Birol Akan Esen)
