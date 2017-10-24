@@ -8,6 +8,9 @@ Sayfaya yeni kaynak eklemek için:
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
 * [Bilgisayarda Görüntü Ve Sayı Dizileri](http://www.ardamavi.com/2017/07/bilgisyarda-goruntu-ve-sayi-dizileri.html) (Arda Mavi)
+* [Derin Öğrenme 1](http://derindelimavi.blogspot.com.tr/2015/10/derin-ogrenme-1.html) (Birol Kuyumcu)
+* [Derin Öğrenme 2](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-2.html) (Birol Kuyumcu)
+* [Derin Öğrenme 3](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-3.html) (Birol Kuyumcu)
 
 ## ALGORİTMALAR
 
