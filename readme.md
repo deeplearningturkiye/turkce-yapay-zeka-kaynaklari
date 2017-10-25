@@ -33,7 +33,7 @@ Sayfaya yeni kaynak eklemek için:
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
-## ÇATI (FRAMEWORK)
+## FRAMEWORK
 ### Caffe
 * [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
 
@@ -64,3 +64,13 @@ Sayfaya yeni kaynak eklemek için:
 
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+
+## VİDEO DERSLER
+### Bilgisayarlı Görü
+* [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @ Data İstanbul) {60 dakika}
+* [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @ Data İstanbul) {30 dakika}
+
+### Framework
+## Keras
+* * [Keras ile Derin Öğrenme -1- Giriş](https://www.youtube.com/watch?v=RNWjwdEQHOQ) (Mehmet Burak Sayıcı) {5 dakika}
+
