@@ -72,5 +72,5 @@ Sayfaya yeni kaynak eklemek için:
 
 ### Framework
 ## Keras
-* * [Keras ile Derin Öğrenme -1- Giriş](https://www.youtube.com/watch?v=RNWjwdEQHOQ) (Mehmet Burak Sayıcı) {5 dakika}
+* [Keras ile Derin Öğrenme -1- Giriş](https://www.youtube.com/watch?v=RNWjwdEQHOQ) (Mehmet Burak Sayıcı) {5 dakika}
 
