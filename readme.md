@@ -55,6 +55,9 @@ Sayfaya yeni kaynak eklemek için:
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
 * [Morphological Embeddings for Named Entity Recognition in Morphologically Rich Languages](https://arxiv.org/abs/1706.00506) (Onur Güngör, Eray Yıldız, Suzan Üsküdarlı, Tunga Güngör)
 
+### Ses İşleme
+* [Classification of Classic Turkish Music Makams by Using Deep Belief Networks](https://www.researchgate.net/publication/308570161_Classification_of_classic_Turkish_music_makams_by_using_deep_belief_networks) (Merve Ayyüca Kızra, Bülent Bolat)
+
 ### Tahmin
 * [Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations](http://www.sciencedirect.com/science/article/pii/S0950705117304252) (Hakan Gündüz, Yusuf Yaslan, Zehra Çataltepe)
 
