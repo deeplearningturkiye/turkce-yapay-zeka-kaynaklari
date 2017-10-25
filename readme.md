@@ -73,7 +73,7 @@ Sayfaya yeni kaynak eklemek için:
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @ Data İstanbul) {60 dakika}
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @ Data İstanbul) {30 dakika}
 
-### Framework
-## Keras
+## Framework
+### Keras
 * [Keras ile Derin Öğrenme -1- Giriş](https://www.youtube.com/watch?v=RNWjwdEQHOQ) (Mehmet Burak Sayıcı) {5 dakika}
 
