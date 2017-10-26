@@ -70,8 +70,10 @@ Sayfaya yeni kaynak eklemek için:
 
 ## VİDEO DERSLER
 ### Bilgisayarlı Görü
-* [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @ Data İstanbul) {60 dakika}
-* [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @ Data İstanbul) {30 dakika}
+* [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
+* [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {30 dakika}
+* [Makine Öğrenmesi Çağında Hayatta Kalma Rehberi](https://youtu.be/P2MwuGpRgSQ) (Şefik İlkin Serengil @
+İstanbul Coding Talks) {84 dakika}
 
 ## Framework
 ### Keras
