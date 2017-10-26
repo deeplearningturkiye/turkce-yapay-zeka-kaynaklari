@@ -4,6 +4,25 @@ Sayfaya yeni kaynak eklemek için:
 1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan "Raw Blame History" butonlarının hemen yanında bulunan "Edit This File" butonuna tıklayın.
 2. Sayfada güncelleme yaptıktan sonra en altta bulunan "Commit changes" butonuna tıklayın.
 
+
+## İçerikler
+
+* **[Temel Konular](#temel-konular)**  
+
+* **[Algoritmalar](#algorİtmalar)**  
+
+* **[Kullanım Alanları](#kullanim-alanlari)**  
+
+* **[Frameworks](#frameworks)**  
+
+* **[Bilimsel Makaleler](#bilimsel-makaleler)**  
+
+* **[Verisetleri](#verisetleri)**  
+
+* **[Video Dersler](#video-dersler)**  
+
+* **[Sunumlar](#sunumlar)**  
+
 ## TEMEL KONULAR
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
@@ -33,7 +52,7 @@ Sayfaya yeni kaynak eklemek için:
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
-## FRAMEWORK
+## FRAMEWORKS
 ### Caffe
 * [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
 
@@ -72,6 +91,15 @@ Sayfaya yeni kaynak eklemek için:
 ### Genel
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
 
+### Yapay Sinir Ağları
+* [Neural Network 1 : Eğitime ve Kavramlara Giriş](https://youtu.be/B5MmXmMMuvI) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {23 dakika}
+* [Neural Network 2: Perceptron Kavramı ve Öğrenme](https://youtu.be/5Lo_HUDtxtw) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {13 dakika}
+* [Neural Network 3: Çok Katmanlı Yapay Sinir Ağları](https://youtu.be/qrmaixHBrzU) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {13 dakika}
+
+### Yapay Zeka
+* [Yapay Zeka (Artificial Intelligence) - Oynatma Listesi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {48 Video}
+
+
 ### Bilgisayarlı Görü
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {30 dakika}
@@ -86,4 +114,8 @@ Sayfaya yeni kaynak eklemek için:
 
 ### Julia
 * [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika}
+
+## Sunumlar
+* [Bozkırda Yapay Öğrenme Yaz Okulu 2017 - Sunumları](http://goo.gl/o2H9hA) (HUCVL)
+
 
