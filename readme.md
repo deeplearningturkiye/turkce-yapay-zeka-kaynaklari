@@ -15,11 +15,11 @@ Sayfaya yeni kaynak eklemek için:
 
 * **[Frameworks](#frameworks)**  
 
-* **[Bilimsel Makaleler](#bilimsel-makaleler)**  
+* **[Bilimsel Makaleler](#bİlİmsel-makaleler)**  
 
-* **[Verisetleri](#verisetleri)**  
+* **[Verisetleri](#verİsetlerİ)**  
 
-* **[Video Dersler](#video-dersler)**  
+* **[Video Dersler](#vİdeo-dersler)**  
 
 * **[Sunumlar](#sunumlar)**  
 
