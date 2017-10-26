@@ -69,13 +69,21 @@ Sayfaya yeni kaynak eklemek için:
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 
 ## VİDEO DERSLER
+### Genel
+* [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
+
 ### Bilgisayarlı Görü
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {30 dakika}
-* [Makine Öğrenmesi Çağında Hayatta Kalma Rehberi](https://youtu.be/P2MwuGpRgSQ) (Şefik İlkin Serengil @
-İstanbul Coding Talks) {84 dakika}
+* [Makine Öğrenmesi Çağında Hayatta Kalma Rehberi](https://youtu.be/P2MwuGpRgSQ) (Şefik İlkin Serengil @İstanbul Coding Talks) {84 dakika}
+
+### IoT
+* [IoT ve Derin Öğrenme Etkinliği](https://youtu.be/fqf6m3R4psQ) (Ferhat Kurt) {82 dakika}
 
 ## Framework
 ### Keras
 * [Keras ile Derin Öğrenme -1- Giriş](https://www.youtube.com/watch?v=RNWjwdEQHOQ) (Mehmet Burak Sayıcı) {5 dakika}
+
+### Julia
+* [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika}
 
