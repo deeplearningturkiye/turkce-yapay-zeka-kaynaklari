@@ -69,6 +69,8 @@ Sayfaya yeni kaynak eklemek için:
 ## BİLİMSEL MAKALELER
 ### Bilgisayarlı Görü (Computer Vision)
 * [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [Face Recognition Classifier Based on Dimension Reduction in Deep Learning Properties](http://ieeexplore.ieee.org/document/7960368/) (Ahmet Bilgiç, Onur Can Kurban, Tülay Yıldırım)
+* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
