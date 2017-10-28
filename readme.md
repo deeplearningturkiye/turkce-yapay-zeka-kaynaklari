@@ -23,6 +23,8 @@ Sayfaya yeni kaynak eklemek için:
 
 * **[Sunumlar](#sunumlar)**  
 
+* **[Github](#github)**  
+ 
 ## TEMEL KONULAR
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
@@ -121,4 +123,6 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 ## Sunumlar
 * [Bozkırda Yapay Öğrenme Yaz Okulu 2017 - Sunumları](http://goo.gl/o2H9hA) (HUCVL)
 
-
+## Github
+### Doğal Dil İşleme
+* [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
