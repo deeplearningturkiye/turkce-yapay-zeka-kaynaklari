@@ -61,6 +61,7 @@ Sayfaya yeni kaynak eklemek için:
 ### Keras
 * [Keras'a Giriş-1](http://derindelimavi.blogspot.com.tr/2017/01/keras-giris-1.html) (Birol Kuyumcu)
 * [Keras'a Giriş-2 ( LSTM )](http://derindelimavi.blogspot.com.tr/2017/03/kerasa-giris-2-lstm.html) (Birol Kuyumcu)
+* [Keras Türkçe Dokümantasyon](https://github.com/kemalcanbora/keras_turkish_doc) (Kemalcan Bora)
 
 ### TensorFlow
 * [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
