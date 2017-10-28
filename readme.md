@@ -70,7 +70,9 @@ Sayfaya yeni kaynak eklemek için:
 ### Bilgisayarlı Görü (Computer Vision)
 * [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Face Recognition Classifier Based on Dimension Reduction in Deep Learning Properties](http://ieeexplore.ieee.org/document/7960368/) (Ahmet Bilgiç, Onur Can Kurban, Tülay Yıldırım)
-* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
+* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, 
+Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
+* [Comparison of Deep Convolutional Neural Network Structures The effect of layer counts and kernel sizes](https://www.seekdl.org/nm.php?id=8220) (B. Melis ÖZYILDIRIM, Serkan KARTAL)
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
@@ -100,7 +102,6 @@ Sayfaya yeni kaynak eklemek için:
 
 ### Yapay Zeka
 * [Yapay Zeka (Artificial Intelligence) - Oynatma Listesi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {48 Video}
-
 
 ### Bilgisayarlı Görü
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
