@@ -1,7 +1,5 @@
 Bu sayfada Türkiye'de derin öğrenme (deep learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) görebilirsiniz. Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** gruba katılmak için deeplearningturkiye@gmail.com adresine e-posta gönderebilirsiniz.
 
-**29 Ekim Güncelleme**: Deep Learning Türkiye grubuna göz atmak için bugüne özel -geçici- davetiye linki: https://discord.gg/pVb9AEg 
-
 Sayfaya yeni kaynak eklemek için:
 1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan "Raw Blame History" butonlarının hemen yanında bulunan "Edit This File" butonuna tıklayın.
 2. Sayfada güncelleme yaptıktan sonra en altta bulunan "Commit changes" butonuna tıklayın.
