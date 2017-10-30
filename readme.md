@@ -84,7 +84,8 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Morphological Embeddings for Named Entity Recognition in Morphologically Rich Languages](https://arxiv.org/abs/1706.00506) (Onur Güngör, Eray Yıldız, Suzan Üsküdarlı, Tunga Güngör)
 * [Zemberek Parser for python3.x](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
 ### Ses İşleme
-* [Classification of Classic Turkish Music Makams by Using Deep Belief Networks](https://www.researchgate.net/publication/308570161_Classification_of_classic_Turkish_music_makams_by_using_deep_belief_networks) (Merve Ayyüce Kızrak, Bülent Bolat)
+* [A musical information retrieval system for Classical Turkish Music makams
+](http://journals.sagepub.com/doi/abs/10.1177/0037549717708615?journalCode=simb) (Merve Ayyüce Kızrak, Bülent Bolat)
 
 ### Tahmin
 * [Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations](http://www.sciencedirect.com/science/article/pii/S0950705117304252) (Hakan Gündüz, Yusuf Yaslan, Zehra Çataltepe)
