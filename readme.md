@@ -28,6 +28,7 @@ Sayfaya yeni kaynak eklemek için:
 * **[Github](#github)**  
  
 ## TEMEL KONULAR
+* [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
 * [Bilgisayarda Görüntü Ve Sayı Dizileri](http://www.ardamavi.com/2017/07/bilgisyarda-goruntu-ve-sayi-dizileri.html) (Arda Mavi)
