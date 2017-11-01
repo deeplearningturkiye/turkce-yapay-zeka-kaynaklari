@@ -59,6 +59,7 @@ Sayfaya yeni kaynak eklemek için:
 ## FRAMEWORKS
 ### Caffe
 * [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
+* [Windows İşletim Sistemi için Caffe Kurulumu](http://mesutpiskin.com/blog/windows-icin-caffe-kurulumu.html) (Mesut Pişkin)
 
 ### Keras
 * [Keras'a Giriş-1](http://derindelimavi.blogspot.com.tr/2017/01/keras-giris-1.html) (Birol Kuyumcu)
@@ -70,6 +71,12 @@ Sayfaya yeni kaynak eklemek için:
 
 ### PyTorch
 * [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) (Özgün Genç)
+
+### Deeplearning4j
+* [Deeplearning4j ile Derin Öğrenmeye Giriş](http://mesutpiskin.com/blog/deeplearning4j-ile-derin-ogrenmeye-giris.html) (Mesut Pişkin)
+* [Deeplearning4j Mimarisi](http://mesutpiskin.com/blog/deeplearning4j-mimarisi-ve-kurulum.html) (Mesut Pişkin)
+* [Deeplearning4j ile Yapay Sinir Ağları](http://mesutpiskin.com/blog/yapay-sinir-agi-derin-ogrenme.html) (Mesut Pişkin)
+
 
 ## BİLİMSEL MAKALELER
 ### Bilgisayarlı Görü (Computer Vision)
@@ -130,3 +137,10 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 ## Github
 ### Doğal Dil İşleme
 * [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
+
+### Bilgisayarlı Görü
+* [CNN ile Görüntü Sınıflandırma](https://github.com/mesutpiskin/CaffeClassification) (Mesut Pişkin)
+* [Gerçek Zamanlı Cinsiyet Tespiti](https://github.com/mesutpiskin/GenderClassification) (Mesut Pişkin)
+
+### Sinir Ağları
+* [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
