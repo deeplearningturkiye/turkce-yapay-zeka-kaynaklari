@@ -34,6 +34,7 @@ Sayfaya yeni kaynak eklemek için:
 * [Derin Öğrenme 1](http://derindelimavi.blogspot.com.tr/2015/10/derin-ogrenme-1.html) (Birol Kuyumcu)
 * [Derin Öğrenme 2](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-2.html) (Birol Kuyumcu)
 * [Derin Öğrenme 3](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-3.html) (Birol Kuyumcu)
+* [Derin Öğrenme , Yapay Zeka ve Bilgisayar Bilim](http://sayilarvekuramlar.blogspot.com/2015/12/bilgisayar-bilim-yapay-zeka.html) (Burak Bayramlı)
 
 ## ALGORİTMALAR
 
