@@ -48,6 +48,7 @@ Sayfaya yeni kaynak eklemek için:
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
 * [Evrişimli Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/convolutional-networks.html) (Arda Mavi)
+* [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
 
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
