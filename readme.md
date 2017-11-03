@@ -120,6 +120,7 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Neural Network 1 : Eğitime ve Kavramlara Giriş](https://youtu.be/B5MmXmMMuvI) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {23 dakika}
 * [Neural Network 2: Perceptron Kavramı ve Öğrenme](https://youtu.be/5Lo_HUDtxtw) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {13 dakika}
 * [Neural Network 3: Çok Katmanlı Yapay Sinir Ağları](https://youtu.be/qrmaixHBrzU) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {13 dakika}
+* [Yapay Sinir Ağlarının Matematiği ve 18 Satırda Matematik Olarak Kodlanması](https://www.youtube.com/watch?v=icrcbqPNrNE/) (Mehmet Burak Sayıcı)
 
 ### Yapay Zeka
 * [Yapay Zeka (Artificial Intelligence) - Oynatma Listesi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {48 Video}
@@ -128,13 +129,15 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {30 dakika}
 * [Makine Öğrenmesi Çağında Hayatta Kalma Rehberi](https://youtu.be/P2MwuGpRgSQ) (Şefik İlkin Serengil @İstanbul Coding Talks) {84 dakika}
+* [Keras ile Convolutional Neural Networks ](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e/) (Mehmet Burak Sayıcı)
+* [Keras ile Convolutional Neural Networks ](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e/) (Mehmet Burak Sayıcı)
 
 ### IoT
 * [IoT ve Derin Öğrenme Etkinliği](https://youtu.be/fqf6m3R4psQ) (Ferhat Kurt) {82 dakika}
 
 ## Framework
 ### Keras
-* [Keras ile Derin Öğrenme -1- Giriş](https://www.youtube.com/watch?v=RNWjwdEQHOQ) (Mehmet Burak Sayıcı) {5 dakika}
+* [Keras Video Eğitim Serisi](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e) (Mehmet Burak Sayıcı) {21 video, artmakta}
 
 ### Julia
 * [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika}
