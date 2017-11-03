@@ -24,6 +24,8 @@ Sayfaya yeni kaynak eklemek için:
 * **[Sunumlar](#sunumlar)**  
 
 * **[Github](#github)**  
+
+* **[Bloglar](#bloglar)**
  
 ## TEMEL KONULAR
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
@@ -111,6 +113,8 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Iniversity Of California, Irvine Machine Learning Reposiyory](http://archive.ics.uci.edu/ml/datasets.html)
 
 ## VİDEO DERSLER
 ### Genel
@@ -155,3 +159,6 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 
 ### Sinir Ağları
 * [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
+
+## Bloglar
+* [veridefteri.com](http://veridefteri.com/)
