@@ -24,6 +24,8 @@ Sayfaya yeni kaynak eklemek için:
 * **[Sunumlar](#sunumlar)**  
 
 * **[Github](#github)**  
+
+* **[Bloglar](#bloglar)**
  
 ## TEMEL KONULAR
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
@@ -154,3 +156,6 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 
 ### Sinir Ağları
 * [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
+
+## Bloglar
+* [veridefteri.com](http://veridefteri.com/)
