@@ -112,6 +112,7 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Iniversity Of California, Irvine Machine Learning Reposiyory](http://archive.ics.uci.edu/ml/datasets.html)
 
 ## VİDEO DERSLER
 ### Genel
