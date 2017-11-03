@@ -61,6 +61,8 @@ Sayfaya yeni kaynak eklemek için:
 
 ## FRAMEWORKS
 ### Caffe
+* [Caffe Kılavuzu - Tüm detaylarıyla Caffe ile çalışma rehberi](https://www.slideshare.net/bluekid/caffe-klavuzu) (Birol Kuyumcu)
+* [Pratik Caffe Kullanımı](https://www.slideshare.net/bluekid/pratik-caffe) (Birol Kuyumcu)
 * [Caffe Fine Tuning: Caffe'yi Kendi Verisetiniz ile Kullanma](http://blog.yavuzz.com/post/caffe-fine-tuning) (Yavuz Kömeçoğlu)
 * [Windows İşletim Sistemi için Caffe Kurulumu](http://mesutpiskin.com/blog/windows-icin-caffe-kurulumu.html) (Mesut Pişkin)
 
@@ -79,6 +81,9 @@ Sayfaya yeni kaynak eklemek için:
 * [Deeplearning4j ile Derin Öğrenmeye Giriş](http://mesutpiskin.com/blog/deeplearning4j-ile-derin-ogrenmeye-giris.html) (Mesut Pişkin)
 * [Deeplearning4j Mimarisi](http://mesutpiskin.com/blog/deeplearning4j-mimarisi-ve-kurulum.html) (Mesut Pişkin)
 * [Deeplearning4j ile Yapay Sinir Ağları](http://mesutpiskin.com/blog/yapay-sinir-agi-derin-ogrenme.html) (Mesut Pişkin)
+
+### FANN
+* [FANN Tool Kılavuzu](https://www.slideshare.net/bluekid/fann-tool-klavuzu) (Birol Kuyumcu)
 
 
 ## BİLİMSEL MAKALELER
