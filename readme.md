@@ -72,6 +72,9 @@ Sayfaya yeni kaynak eklemek için:
 * [Keras'a Giriş-1](http://derindelimavi.blogspot.com.tr/2017/01/keras-giris-1.html) (Birol Kuyumcu)
 * [Keras'a Giriş-2 ( LSTM )](http://derindelimavi.blogspot.com.tr/2017/03/kerasa-giris-2-lstm.html) (Birol Kuyumcu)
 * [Keras Türkçe Dokümantasyon](https://github.com/kemalcanbora/keras_turkish_doc) (Kemalcan Bora)
+* [Keras Kurulumu](http://ibrahimdelibasoglu.blogspot.com.tr/2017/08/python-tensorflow-ile-keras-derin.html) (İbrahim Delibaşoğlu)
+* [Keras ile Sonar Verisi Sınıflandırma](http://ibrahimdelibasoglu.blogspot.com.tr/2017/09/keras-ile-derin-ogrenmeye-giris-snflama.html) (İbrahim Delibaşoğlu)
+
 
 ### TensorFlow
 * [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
@@ -95,6 +98,8 @@ Sayfaya yeni kaynak eklemek için:
 * [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, 
 Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Comparison of Deep Convolutional Neural Network Structures The effect of layer counts and kernel sizes](https://www.seekdl.org/nm.php?id=8220) (B. Melis ÖZYILDIRIM, Serkan KARTAL)
+* [On identifying leaves: A comparison of CNN with classical ML methods](http://ieeexplore.ieee.org/abstract/document/7960257/) (Mohamed Abbas Hedjazi, Ikram Kourbane, Yakup Genç)
+
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
