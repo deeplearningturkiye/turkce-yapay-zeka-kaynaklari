@@ -100,7 +100,6 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Comparison of Deep Convolutional Neural Network Structures The effect of layer counts and kernel sizes](https://www.seekdl.org/nm.php?id=8220) (B. Melis ÖZYILDIRIM, Serkan KARTAL)
 * [On identifying leaves: A comparison of CNN with classical ML methods](http://ieeexplore.ieee.org/abstract/document/7960257/) (Mohamed Abbas Hedjazi, Ikram Kourbane, Yakup Genç)
 
-
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
 * [Morphological Embeddings for Named Entity Recognition in Morphologically Rich Languages](https://arxiv.org/abs/1706.00506) (Onur Güngör, Eray Yıldız, Suzan Üsküdarlı, Tunga Güngör)
@@ -118,6 +117,9 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [Yıldız Teknik Üniversitesi Kemik Doğal Dil İşleme Grubu Verisetleri](http://www.kemik.yildiz.edu.tr/?id=28) (YTÜ Kemik Doğal Dil İşleme Grubu)
+* [Turkish Sentient Dataset](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) (Ahmet Hayran, Mustafa Sert)
+
 
 ## VİDEO DERSLER
 ### Genel
