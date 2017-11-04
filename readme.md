@@ -118,7 +118,7 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Yıldız Teknik Üniversitesi Kemik Doğal Dil İşleme Grubu Verisetleri](http://www.kemik.yildiz.edu.tr/?id=28) (YTÜ Kemik Doğal Dil İşleme Grubu)
-* [Turkish Sentient Dataset](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) (Ahmet Hayran, Mustafa Sert)
+* [Turkish Sentiment Dataset](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) (Ahmet Hayran, Mustafa Sert)
 
 
 ## VİDEO DERSLER
