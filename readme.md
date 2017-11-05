@@ -106,6 +106,8 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
 * [Morphological Embeddings for Named Entity Recognition in Morphologically Rich Languages](https://arxiv.org/abs/1706.00506) (Onur Güngör, Eray Yıldız, Suzan Üsküdarlı, Tunga Güngör)
 * [Zemberek Parser for python3.x](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
+* [A Morphology-Aware Network for Morphological Disambiguation](https://arxiv.org/pdf/1702.03654.pdf) (Eray Yıldız, Çağlar Tırkaz, H. Bahadır Şahin, Mustafa Tolga Eren, Ozan Sönmez)
+* [Automatically Annotated Turkish Corpus for Named Entity Recognition and Text Categorization using Large-Scale Gazetteers](https://arxiv.org/pdf/1702.02363.pdf) (H. Bahadır Şahin, Çağlar Tırkaz, Eray Yıldız, Mustafa Tolga Eren, Ozan Sönmez)
 ### Ses İşleme
 * [A musical information retrieval system for Classical Turkish Music makams
 ](http://journals.sagepub.com/doi/abs/10.1177/0037549717708615?journalCode=simb) (Merve Ayyüce Kızrak, Bülent Bolat)
@@ -121,7 +123,7 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Yıldız Teknik Üniversitesi Kemik Doğal Dil İşleme Grubu Verisetleri](http://www.kemik.yildiz.edu.tr/?id=28) (YTÜ Kemik Doğal Dil İşleme Grubu)
 * [Turkish Sentiment Dataset](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) (Ahmet Hayran, Mustafa Sert)
-
+* [English/Turkish Wikipedia Named-Entity Recognition and Text Categorization Dataset](https://data.mendeley.com/datasets/cdcztymf4k/1) (H. Bahadır Şahin, Çağlar Tırkaz, Eray Yıldız, Mustafa Tolga Eren, Ozan Sönmez)
 
 ## VİDEO DERSLER
 ### Genel
