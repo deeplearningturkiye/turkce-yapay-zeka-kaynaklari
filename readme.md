@@ -120,6 +120,7 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 ### Siber Güvenlik
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
+* [CPP-ELM: Cryptographically Privacy-Preserving Extreme Learning Machine for Cloud Systems](http://www.atlantis-press.com/journals/ijcis/25885040) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
