@@ -32,7 +32,6 @@ Sayfaya yeni kaynak eklemek için:
 * **[Bloglar](#bloglar)**
  
 ## TEMEL KONULAR
-* [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)] (http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks) (Merve Ayyüce Kızrak)
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
 * [Derin Öğrenme Başlangıç Seti - Donanım Ve Yazılım](http://www.ardamavi.com/2017/10/derin-ogrenme-baslangic-seti.html) (Arda Mavi)
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
@@ -57,6 +56,9 @@ Sayfaya yeni kaynak eklemek için:
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
 * [Evrişimli Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/convolutional-networks.html) (Arda Mavi)
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
+
+### Kapsül Ağları (Capsule Networks)
+* [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)] (http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks) (Merve Ayyüce Kızrak)
 
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
