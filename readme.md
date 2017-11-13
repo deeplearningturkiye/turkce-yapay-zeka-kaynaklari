@@ -60,7 +60,7 @@ Sayfaya yeni kaynak eklemek için:
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
 
 ### Kapsül Ağları (Capsule Networks)
-* [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)] (http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks) (Merve Ayyüce Kızrak)
+* [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks) (Merve Ayyüce Kızrak)
 
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
