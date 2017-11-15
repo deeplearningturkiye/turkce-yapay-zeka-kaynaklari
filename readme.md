@@ -115,6 +115,7 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Zemberek Parser for python3.x](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
 * [A Morphology-Aware Network for Morphological Disambiguation](https://arxiv.org/pdf/1702.03654.pdf) (Eray Yıldız, Çağlar Tırkaz, H. Bahadır Şahin, Mustafa Tolga Eren, Ozan Sönmez)
 * [Automatically Annotated Turkish Corpus for Named Entity Recognition and Text Categorization using Large-Scale Gazetteers](https://arxiv.org/pdf/1702.02363.pdf) (H. Bahadır Şahin, Çağlar Tırkaz, Eray Yıldız, Mustafa Tolga Eren, Ozan Sönmez)
+* [Turkish NLP Dataset](https://tscorpus.com)(Sezer, B., Sezer, T. 2013. TS Corpus: Herkes İçin Türkçe Derlem. Proceedings 27th National Linguistics Conference. May, 3-4 Mayıs 2013. Antalya, Kemer: Hacettepe University, English Linguistics Department. pp: 217-225)
 ### Ses İşleme
 * [A musical information retrieval system for Classical Turkish Music makams
 ](http://journals.sagepub.com/doi/abs/10.1177/0037549717708615?journalCode=simb) (Merve Ayyüce Kızrak, Bülent Bolat)
