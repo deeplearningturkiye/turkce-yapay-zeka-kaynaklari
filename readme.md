@@ -1,3 +1,16 @@
+[BU SAYFAYA KATKI SAĞLAYARAK ÜCRETSİZ "YAPAY ÖĞRENME" KİTABI KAZANABİLİRSİNİZ! (19 KASIM'A KADAR)](https://www.linkedin.com/feed/update/urn:li:activity:6333755909638094848)
+
+Bu sayfada Türkiye'de derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) bulabilirsiniz. 
+
+Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** Deep Learning Türkiye topluluğuna katılmak için deeplearningturkiye@gmail.com adresine e-posta gönderebilirsiniz.
+
+Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilirsiniz:
+
+Sayfaya yeni kaynak eklemek için:
+1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
+2. Sayfada güncelleme yaptıktan sonra, önce en altta bulunan **Propose File Change** butonuna sonra da açılan sayfada **Create Pull Request** butonuna tıklayın.
+
+
 ## İçerikler
 
 * **[Temel Konular](#temel-konular)**  
