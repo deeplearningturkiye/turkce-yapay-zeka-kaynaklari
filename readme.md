@@ -110,6 +110,7 @@ Sayfaya yeni kaynak eklemek için:
 Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Comparison of Deep Convolutional Neural Network Structures The effect of layer counts and kernel sizes](https://www.seekdl.org/nm.php?id=8220) (B. Melis ÖZYILDIRIM, Serkan KARTAL)
 * [On identifying leaves: A comparison of CNN with classical ML methods](http://ieeexplore.ieee.org/abstract/document/7960257/) (Mohamed Abbas Hedjazi, Ikram Kourbane, Yakup Genç)
+* [On identifying leaves: A comparison of CNN with classical ML methods](https://web.cs.hacettepe.edu.tr/~aykut/papers/ieee-tmm17.pdf) (Çağdaş Bak, Aysun Koçak, Erkut Erdem, Aykut Erdem)
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
