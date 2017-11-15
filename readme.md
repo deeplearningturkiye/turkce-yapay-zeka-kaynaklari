@@ -173,6 +173,9 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 ### Doğal Dil İşleme
 * [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
 
+### Arama Algoritmaları
+* [C ile Ağaçlarda Bilgisiz/Bilmeden Arama Algoritmaları](https://github.com/Enes1313/Uninformed-Search-Strategies)  (Enes AYDIN)
+
 ### Bilgisayarlı Görü
 * [CNN ile Görüntü Sınıflandırma](https://github.com/mesutpiskin/CaffeClassification) (Mesut Pişkin)
 * [Gerçek Zamanlı Cinsiyet Tespiti](https://github.com/mesutpiskin/GenderClassification) (Mesut Pişkin)
