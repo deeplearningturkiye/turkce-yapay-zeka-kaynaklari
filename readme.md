@@ -1,4 +1,4 @@
-[BU SAYFAYA KATKI SAĞLAYARAK ÜCRETSİZ "YAPAY ÖĞRENME" KİTABI KAZANABİLİRSİNİZ! (19 KASIM'A KADAR)](https://www.linkedin.com/feed/update/urn:li:activity:6333755909638094848)
+[BU SAYFAYA KATKI SAĞLAYARAK ÜCRETSİZ "YAPAY ÖĞRENME" KİTABI KAZANABİLİRSİNİZ! (19 KASIM'A KADAR)](https://www.linkedin.com/feed/update/urn:li:activity:6333755909638094848) 
 
 Bu sayfada Türkiye'de derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) bulabilirsiniz. 
 
