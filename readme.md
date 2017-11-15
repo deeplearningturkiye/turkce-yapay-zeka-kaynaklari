@@ -10,6 +10,8 @@ Sayfaya yeni kaynak eklemek için:
 1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
 2. Sayfada güncelleme yaptıktan sonra, önce en altta bulunan **Propose File Change** butonuna sonra da açılan sayfada **Create Pull Request** butonuna tıklayın.
 
+**NOT** Lütfen dosyayı düzenlerken kontrol ediniz, yapılan açıklamaları silmeyiniz.
+
 
 ## İçerikler
 
