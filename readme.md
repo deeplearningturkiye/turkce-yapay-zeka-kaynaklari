@@ -114,8 +114,9 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Exploiting Convolution Filter Patterns for Transfer Learning](https://arxiv.org/abs/1708.06973) (Mehmet Aygün, Yusuf Aytar, Hazım Kemal Ekenel)
 * [The Unconstrained Ear Recognition Challenge](https://arxiv.org/abs/1708.06997) (Žiga Emeršič, Dejan Štepec, Vitomir Štruc, Peter Peer, Anjith George, Adil Ahmad, Elshibani Omar, Terrance E. Boult, Reza Safdari, Yuxiang Zhou, Stefanos Zafeiriou, Dogucan Yaman, Fevziye I. Eyiokur, Hazim K. Ekenel)
 * [Combining LiDAR Space Clustering and Convolutional Neural Networks for Pedestrian Detection](https://arxiv.org/abs/1710.06160) (Damien Matti, Hazım Kemal Ekenel, Jean-Philippe Thiran)
-* [Combining Multiple Views for Visual Speech Recognitio](http://avsp2017.loria.fr/wp-content/uploads/2017/07/AVSP2017_paper_25.pdf) (Marina Zimmermann, Mostafa Mehdipour Ghazi, Hazım Kemal Ekenel, Jean-Philippe Thiran)
-* [A Computer Vision System to Localize and Classify Wastes on the Streets](https://infoscience.epfl.ch/record/231365/files/A-Computer-Vision-System%20to-Localize-and-Classify-Wastes-on-the-Streets.pdf) (https://infoscience.epfl.ch/record/231365/files/A-Computer-Vision-System%20to-Localize-and-Classify-Wastes-on-the-Streets.pdf)
+* [Combining Multiple Views for Visual Speech Recognition](http://avsp2017.loria.fr/wp-content/uploads/2017/07/AVSP2017_paper_25.pdf) (Marina Zimmermann, Mostafa Mehdipour Ghazi, Hazım Kemal Ekenel, Jean-Philippe Thiran)
+* [A Computer Vision System to Localize and Classify Wastes on the Streets](https://infoscience.epfl.ch/record/231365/files/A-Computer-Vision-System%20to-Localize-and-Classify-Wastes-on-the-Streets.pdf) (Mohammad Saeed Rad,Andreas von Kaenel, Andre Droux, Francois
+Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
