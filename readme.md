@@ -111,6 +111,11 @@ Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [Comparison of Deep Convolutional Neural Network Structures The effect of layer counts and kernel sizes](https://www.seekdl.org/nm.php?id=8220) (B. Melis ÖZYILDIRIM, Serkan KARTAL)
 * [On identifying leaves: A comparison of CNN with classical ML methods](http://ieeexplore.ieee.org/abstract/document/7960257/) (Mohamed Abbas Hedjazi, Ikram Kourbane, Yakup Genç)
 * [On identifying leaves: A comparison of CNN with classical ML methods](https://web.cs.hacettepe.edu.tr/~aykut/papers/ieee-tmm17.pdf) (Çağdaş Bak, Aysun Koçak, Erkut Erdem, Aykut Erdem)
+* [Exploiting Convolution Filter Patterns for Transfer Learning](https://arxiv.org/abs/1708.06973) (Mehmet Aygün, Yusuf Aytar, Hazım Kemal Ekenel)
+* [The Unconstrained Ear Recognition Challenge](https://arxiv.org/abs/1708.06997) (Žiga Emeršič, Dejan Štepec, Vitomir Štruc, Peter Peer, Anjith George, Adil Ahmad, Elshibani Omar, Terrance E. Boult, Reza Safdari, Yuxiang Zhou, Stefanos Zafeiriou, Dogucan Yaman, Fevziye I. Eyiokur, Hazim K. Ekenel)
+* [Combining LiDAR Space Clustering and Convolutional Neural Networks for Pedestrian Detection](https://arxiv.org/abs/1710.06160) (Damien Matti, Hazım Kemal Ekenel, Jean-Philippe Thiran)
+* [Combining Multiple Views for Visual Speech Recognitio](http://avsp2017.loria.fr/wp-content/uploads/2017/07/AVSP2017_paper_25.pdf) (Marina Zimmermann, Mostafa Mehdipour Ghazi, Hazım Kemal Ekenel, Jean-Philippe Thiran)
+* [A Computer Vision System to Localize and Classify Wastes on the Streets](https://infoscience.epfl.ch/record/231365/files/A-Computer-Vision-System%20to-Localize-and-Classify-Wastes-on-the-Streets.pdf) (https://infoscience.epfl.ch/record/231365/files/A-Computer-Vision-System%20to-Localize-and-Classify-Wastes-on-the-Streets.pdf)
 
 ### Türkçe Doğal Dil İşleme
 * [Linguistic Features in Turkish Word Representations](http://ieeexplore.ieee.org/abstract/document/7960223/) (Onur Güngör, Eray Yıldız)
