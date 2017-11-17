@@ -174,6 +174,9 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Julia
 * [Julia ve Knet ile Derin Öğrenmeye Giriş](https://youtu.be/3TR3Rx-Esis) (Doç. Dr. Deniz Yuret) {104 dakika}
 
+### MatConvNet
+* [MatConvNet ve Matlab ile Derin Öğrenmeye Giriş](https://www.youtube.com/watch?v=nRVQQNw4Kh4&t=8s) (Ahmet Gökhan POYRAZ) {5 Video, eklemeler yapılacaktır}
+
 ## Sunumlar
 * [Bozkırda Yapay Öğrenme Yaz Okulu 2017 - Sunumları](http://goo.gl/o2H9hA) (HUCVL)
 
