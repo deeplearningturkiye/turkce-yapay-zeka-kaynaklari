@@ -67,6 +67,7 @@ Sayfaya yeni kaynak eklemek için:
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
 * [Keras ile Duygu Analizi](http://derindelimavi.blogspot.com.tr/2017/10/keras-ile-duygu-analizi.html) (Birol Kuyumcu)
+* [Türkçe Metin İşlemede İlk Adımlar](http://www.veridefteri.com/2017/11/20/turkce-metin-islemede-ilk-adimlar/) (İlker Birbil)
 
 ### Siber Güvenlik (Cyber Security)
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
