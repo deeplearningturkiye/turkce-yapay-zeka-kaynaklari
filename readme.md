@@ -9,8 +9,6 @@ Sayfaya yeni kaynak eklemek için:
 1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
 2. Sayfada güncelleme yaptıktan sonra, önce en altta bulunan **Propose File Change** butonuna sonra da açılan sayfada **Create Pull Request** butonuna tıklayın.
 
-**NOT** Lütfen dosyayı düzenlerken kontrol ediniz, yapılan açıklamaları silmeyiniz.
-
 
 ## İçerikler
 
@@ -151,6 +149,12 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [SemEval-2016 ABSA Restaurant Reviews-Turkish: Train Data (Subtask 1)](http://metashare.ilsp.gr:8080/repository/browse/semeval-2016-absa-restaurant-reviews-turkish-train-data-subtask-1/ff5dad70676311e5bf9c842b2b6a04d71fa7fa3ba4504a228dafe0c24560585b/)
 * [Turkish Paraphrase Corpus (TuPC)](https://osf.io/wp83a/)(Eyecioglu, Asli, and Bill Keller. "ASOBEK at SemEval-2016 Task 1: Sentence Representation with Character N-gram Embeddings for Semantic Textual Similarity." SemEval@ NAACL-HLT. 2016.)
 * [Turkish WordNet (KeNet)](http://haydut.isikun.edu.tr/kenet.html)(Sasmaz, E., R. Ehsani, O. T. Yildiz, "Hypernym extraction from Wikipedia and Wiktionary", SIU, Antalya, Turkey, 2017)
+* [Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson%2BSpeech%2BDataset%2Bwith%2B%2BMultiple%2BTypes%2Bof%2BSound%2BRecordings#)(Erdogdu Sakar, B., Isenkul, M., Sakar, C.O., Sertbas, A., Gurgen, F., Delil, S., Apaydin, H., Kursun, O., 'Collection and Analysis of a Parkinson Speech Dataset with Multiple Types of Sound Recordings', IEEE Journal of Biomedical and Health Informatics, vol. 17(4), pp. 828-834, 2013.)
+* [Turkiye Student Evaluation Data Set](http://archive.ics.uci.edu/ml/datasets/turkiye+student+evaluation#)(Gunduz, G. & Fokoue, E. (2013).)
+* [Combined Cycle Power Plant Data Set](http://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant)(Pınar Tüfekci, Prediction of full load electrical power output of a base load operated combined cycle power plant using machine learning methods, International Journal of Electrical Power & Energy Systems, Volume 60, September 2014, Pages 126-140, ISSN 0142-06)
+* [Dermatology Data Set](http://archive.ics.uci.edu/ml/datasets/dermatology)(G. Demiroz, H. A. Govenir, and N. Ilter, "Learning Differential Diagnosis of Eryhemato-Squamous Diseases using Voting Feature Intervals", Aritificial Intelligence in Medicine, 1998-2004)
+* [Arrhythmia Data Set](https://archive.ics.uci.edu/ml/datasets/arrhythmia)(H. Altay Guvenir, Burak Acar, Gulsen Demiroz, Ayhan Cekin "A Supervised Machine Learning Algorithm for Arrhythmia Analysis." Proceedings of the Computers in Cardiology Conference, Lund, Sweden, 1997.)
+* [Artificial Characters Data Set](https://archive.ics.uci.edu/ml/datasets/Artificial+Characters)( H. Altay Guvenir et al, 1992)
 
 ## VİDEO DERSLER
 ### Genel
