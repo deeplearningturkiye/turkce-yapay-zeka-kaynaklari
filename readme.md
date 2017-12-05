@@ -72,6 +72,9 @@ Sayfaya yeni kaynak eklemek için:
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
+### Optik Karakter Tanıma (Optical Character Recognition -OCR-)
+* [Optik Karakter Tanıma, Yazı Tanıma](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
+
 ## FRAMEWORKS
 ### Caffe
 * [Caffe Kılavuzu - Tüm detaylarıyla Caffe ile çalışma rehberi](https://www.slideshare.net/bluekid/caffe-klavuzu) (Birol Kuyumcu)
