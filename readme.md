@@ -72,8 +72,10 @@ Sayfaya yeni kaynak eklemek için:
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
-### Optik Karakter Tanıma (Optical Character Recognition -OCR-)
-* [Optik Karakter Tanıma, Yazı Tanıma](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
+### Bilgisayarlı Görü (Computer Vision)
+* [Optik Karakter Tanıma, Yazı Tanıma (Optical Character Recognition -OCR-)](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
+* [YOLO: Gerçek Zamanlı Nesne Tespiti Kütüphanesi (Darknet) Kurulumu](http://blog.yavuzz.com/post/gercek-zamanli-nesne-tespiti-kutuphanesi-darknet-kurulumu) (Yavuz Kömeçoğlu)
+* [YOLO'da Kendi Özel Kişi yada Nesnemizin Algılanmasını Nasıl Sağlarız?](http://blog.yavuzz.com/post/yolo-da-kendi-ozel-nesnemizin-algilanmasini-nasil-saglariz) (Yavuz Kömeçoğlu)
 
 ## FRAMEWORKS
 ### Caffe
