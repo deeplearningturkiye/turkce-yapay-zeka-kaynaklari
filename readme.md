@@ -31,6 +31,8 @@ Sayfaya yeni kaynak eklemek için:
 * **[Github](#github)**  
 
 * **[Bloglar](#bloglar)**
+
+* **[Kitaplar](#kitaplar)**
  
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/su-kara-kutuyu-acalim-yapay-sinir-aglari) (Merve Ayyüce Kızrak)
@@ -215,3 +217,9 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ## Bloglar
 * [veridefteri.com](http://veridefteri.com/)
+
+## Kitaplar
+* [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
+* [OpenCv Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://www.kitapyurdu.com/kitap/opencv-goruntu-isleme-ve-yapay-ogrenme/376463.html)
+
+
