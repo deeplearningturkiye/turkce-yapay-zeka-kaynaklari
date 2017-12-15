@@ -7,11 +7,16 @@
 
 ### Alt Konu Başlığı
 
-* [Link'in görüntüleneceği şekil](https://www.icerige.ait/yol/) (Yazar)
+* [Link'in görüntüleneceği şekil](https://www.icerige.ait/yol/) (Açıklamalar)
 
 ```
 Girilecek içeriğin formatı yukarıdakine benzer şeklinde olmalıdır.
+
+Açıklamalarda once yazar/sahip adı -varsa- yazılmalıdır.
 Eğer içerigin birden fazla yazarı/sahibi var ise ',' ile ayrılmalıdır. 
+Söz konusu makale - akademik çalışma ingilizce olarak yayınlanmış ise '""' içerisinde yazardan sonra eklenmelidir.
+Söz konusu kaynağa ait olarak kayıt, yayınlanma, baskı tarih ve yeri bilgisi mevcut ise '@' karakteriyle ayrılıp belirtilmelidir.
+örneğin (İsim SOYİSİM @ university üniversitesi 2016 mart) gibi.
 
 Video tarzı içeriklerde ek olarak '{}' parametreleri arasında içeriğin dakika bilgisi verilmelidir.
 
