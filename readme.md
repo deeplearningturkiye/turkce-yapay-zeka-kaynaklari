@@ -5,7 +5,7 @@ Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Deri
 
 Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilirsiniz:
 
-Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contrubuting.md) adresindeki talimatları izleyin.
+Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) adresindeki talimatları izleyin.
 
 
 ## İçerikler
