@@ -37,9 +37,9 @@ Bu farklı yayınlarda farklı değerlendirilebilir.
 Örneğin sadece türkçe olduğu için 10 yıl oncesinde yazılmış, 
 insanlara eksik yada artık kullanımda olmayacak kadar hantal olduğu kesinleşmiş algoritmaları tavsiye eden bir kitabi eklememelisiniz.
 
-Yada eklemek istediğiniz bloger sayfasinin sürekli yeni makaleler girilen,
+Eklemek istediğiniz bloğun sürekli yeni makaleler girilen güncel bir blog,
 
-bu bir yazilim deposu (git svn... repository) ise 
+bu bir yazilim deposu (git svn vb repository) ise 
 sürdürücüsü (maintainer) tarafından unutulmadığını - terk edilmediğini doğrulamanız gerekir. (genellikle Abonded tagiyle belirtilir)
 
 #### Eksik içerik ön bildirimi
@@ -49,10 +49,23 @@ Bu durum kurallandırılamaz tamamen insiyatif dahilindedir. Örneğin formatı 
 Doğrudan veriyi kullanmak olanaksıza yakındır öncelikle işlenip tasnif edilmesi gereklidir. Ama geliştirilmek istenen yapay zekanın
 samanlıkta iğne bulabiliyor olması gerekliyse çok uygun bir veri seti olabilir.
 
-### Girilen içerik kaynağı bir web sitesi ise
+### Verilen URL'lerin standardı
 Sayfanın çalışabilirliği verilen linklerin kırık olmadığını teyit etmemiz gerekir.
+
+Sonradan linkin 400lü veya 500lü sayfalara düşmesi gibi bir durumlara karşın aynı linkin archive.org kaydı zaman damgasıyla birlikte 
+Pull request açiklamasında belirtilebilir. 
+
+Ilgili kaynağın bulunduğu web sayfasinin güvenirliğinden emin değilseniz virustotal.com üzerinden taratıp sunuc sayfasini pull request açıklamasına ekleyebilirsiniz.
+
+Dosya direk indirme linkleri youtube videoları gibi kaynaklarda archive.org kaydı eklemeye gerek yoktur.
+
 Link kısaltma servislerinden kaçınılmalıdır. 
-Bunun gerekçesi link kısaltma servislerinin anlaşılabilirliği düşürmesi ve sayfa yayında olmadığı zamanlarda archive.org gibi sitelerden sayfa onbelleğine ulaşılamaması gibi sebeplerdir.
+Bunun gerekçesi link kısaltma servislerinin anlaşılabilirliği düşürmesi ve sayfa yayında olmadığı zamanlarda archive.org gibi sitelerden orjinal kaynağa ulaşılamaması gibi sebeplerdir.
+
+Verilen dosyaların kaynaklarının guvenilir olmasına dikkat edilmelidir. Asla şifre korumalı .rar .zip .tar gibi sıkıştırılmış içerikler ve bu içerikleri paylaşan sayfalar paylaşılmamalıdır.
+
+Eğer kaynak olarak göstereceğiniz dosyanın güvenirliğinden emin değilseniz virustotal.com üzerinden taratabilirsiniz. 
+Virustotal uzerinde yapilan tarama işleminin sonucunu -varsa- Pr açıklamasında yazabilirsiniz.
 
 ## Yasal Sorumluluklar
 
@@ -60,6 +73,3 @@ Herhangi bir şekilde ücret dahilinde sağlanan içeriklerde (online eğitim se
 eser sahibinin yada telif hakları sahip veya sahiplerinin haklarını gözeterek yapılmalıdır.
 
 Korsan içerik satışı yapilan siteler, içeriğin doğrudan indirme linki, kitaplar için pdf indirme adresi, Online eğitim setleri için satın alınmış kullanıcı hesabı bilgileri verilmemelidir. 
-
-
-
