@@ -3,8 +3,10 @@
 ## Yeni Kayıt Ekleme
 
 1. [readme.md](https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md) adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
+![image](https://user-images.githubusercontent.com/12828465/34069164-283c9bae-e253-11e7-8a3d-3d18eb1002cf.png)
 
 2. Sayfada güncelleme yaptıktan sonra, önce en altta bulunan **Propose File Change** butonuna sonra da açılan sayfada **Create Pull Request** butonuna tıklayın.
+![image](https://user-images.githubusercontent.com/12828465/34069179-6f2eaea8-e253-11e7-9867-1d473a7e34e5.png)
 
 ## Yazım formatı
 
