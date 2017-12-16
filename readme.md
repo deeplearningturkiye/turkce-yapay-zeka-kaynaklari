@@ -5,9 +5,7 @@ Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Deri
 
 Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilirsiniz:
 
-Sayfaya yeni kaynak eklemek için:
-1. https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/readme.md adresinde sayfanın sağ üstünde bulunan **Raw Blame History** butonlarının hemen yanında bulunan **Edit This File** butonuna tıklayın.
-2. Sayfada güncelleme yaptıktan sonra, önce en altta bulunan **Propose File Change** butonuna sonra da açılan sayfada **Create Pull Request** butonuna tıklayın.
+Sayfaya yeni kaynak eklemek için: https://github.com/deeplearningturkiye/turkce-derin-ogrenme-kaynaklari/blob/master/contrubuting.md adresindeki talimatları izleyin.
 
 
 ## İçerikler
