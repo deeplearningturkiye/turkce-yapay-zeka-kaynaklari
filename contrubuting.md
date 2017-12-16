@@ -30,6 +30,11 @@ Video tarzı içeriklerde ek olarak '{}' parametreleri arasında içeriğin daki
 
 Kitaplar için kitabın aktif olarak satışının yapıldığı kitap hakkında açıklama bilgilerine yer veren bir alış veriş sitesi adresi yada ön izleme versiyonu verilebilir. 
 
+### MarkDown Desteği
+GitHub Tarafından desteklenen içerik stilleri için daha fazla bilgiye 
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) adresinden ulaşabilirsiniz.
+
+
 ## Genel uyarılar
 
 ### Açıklayıcı bir başlık (title) belirtmeye özen gösteriniz.
