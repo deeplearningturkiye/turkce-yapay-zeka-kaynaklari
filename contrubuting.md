@@ -28,7 +28,7 @@ Söz konusu kaynağa ait olarak kayıt, yayınlanma, baskı tarih ve yeri bilgis
 
 Video tarzı içeriklerde ek olarak '{}' parametreleri arasında içeriğin dakika bilgisi verilmelidir.
 
-Kitaplar için kitabın aktif olarak satışının yapıldığı kitap hakkında açıklama bilgilerine yer veren bir alış veriş sitesi adresi yada ön izleme versiyonu verilebilir. 
+Kitaplar için kitabın aktif olarak satışının yapıldığı kitap hakkında açıklama bilgilerine yer veren bir alışveriş sitesi adresi ya da önizleme versiyonu verilebilir. 
 
 ### MarkDown Desteği
 GitHub Tarafından desteklenen içerik stilleri için daha fazla bilgiye 
@@ -40,15 +40,15 @@ GitHub Tarafından desteklenen içerik stilleri için daha fazla bilgiye
 ### Açıklayıcı bir başlık (title) belirtmeye özen gösteriniz.
 Örneğin bir birleştirme isteği (pull Request) `Update readme.md` şeklinde varsayılan değer olmamalıdır.
 
-Öncelikli amaç yapay zeka alanındaki türkçe kaynakları toplamak olduğu için bu açıklamalarda da türkçe kullanılması daha uygun olur. 
+Öncelikli amaç yapay zeka alanındaki türkçe kaynakları toplamak olduğu için bu açıklamalarda da Türkçe kullanılması daha uygun olur. 
 
 ### içeriğin kalitesi ve güncelliği
 
 Kaliteli içeriklere daha çok yer verilmesi gerekiyor.
 
 Bu farklı yayınlarda farklı değerlendirilebilir. 
-Örneğin sadece türkçe olduğu için 10 yıl oncesinde yazılmış, 
-insanlara eksik yada artık kullanımda olmayacak kadar hantal olduğu kesinleşmiş algoritmaları tavsiye eden bir kitabi eklememelisiniz.
+Örneğin sadece Türkçe olduğu için 10 yıl oncesinde yazılmış, 
+insanlara eksik ya da artık kullanımda olmayacak kadar hantal olduğu kesinleşmiş algoritmaları tavsiye eden bir kitabi eklememelisiniz.
 
 Eklemek istediğiniz bloğun sürekli yeni makaleler girilen güncel bir blog,
 
@@ -65,12 +65,12 @@ samanlıkta iğne bulabiliyor olması gerekliyse çok uygun bir veri seti olabil
 ### Verilen URL'lerin standardı
 Sayfanın çalışabilirliği verilen linklerin kırık olmadığını teyit etmemiz gerekir.
 
-Sonradan linkin 400lü veya 500lü sayfalara düşmesi gibi bir durumlara karşın aynı linkin archive.org kaydı zaman damgasıyla birlikte 
-Pull request açiklamasında belirtilebilir. 
+Sonradan linkin 400'lü veya 500'lü sayfalara düşmesi gibi bir durumlara karşın aynı linkin archive.org kaydı zaman damgasıyla birlikte 
+Pull Request açiklamasında belirtilebilir. 
 
-Ilgili kaynağın bulunduğu web sayfasinin güvenirliğinden emin değilseniz virustotal.com üzerinden taratıp sunuc sayfasini pull request açıklamasına ekleyebilirsiniz.
+İlgili kaynağın bulunduğu web sayfasinin güvenirliğinden emin değilseniz virustotal.com üzerinden taratıp sunuc sayfasini Pull Request açıklamasına ekleyebilirsiniz.
 
-Dosya direk indirme linkleri youtube videoları gibi kaynaklarda archive.org kaydı eklemeye gerek yoktur.
+Dosya direk indirme linkleri Youtube videoları gibi kaynaklarda archive.org kaydı eklemeye gerek yoktur.
 
 Link kısaltma servislerinden kaçınılmalıdır. 
 Bunun gerekçesi link kısaltma servislerinin anlaşılabilirliği düşürmesi ve sayfa yayında olmadığı zamanlarda archive.org gibi sitelerden orjinal kaynağa ulaşılamaması gibi sebeplerdir.
@@ -83,6 +83,6 @@ Virustotal uzerinde yapilan tarama işleminin sonucunu -varsa- Pr açıklamasın
 ## Yasal Sorumluluklar
 
 Herhangi bir şekilde ücret dahilinde sağlanan içeriklerde (online eğitim serisi, kitap, video gibi) verilecek olan linklendirme
-eser sahibinin yada telif hakları sahip veya sahiplerinin haklarını gözeterek yapılmalıdır.
+eser sahibinin ya da telif hakları sahip veya sahiplerinin haklarını gözeterek yapılmalıdır.
 
 Korsan içerik satışı yapilan siteler, içeriğin doğrudan indirme linki, kitaplar için pdf indirme adresi, Online eğitim setleri için satın alınmış kullanıcı hesabı bilgileri verilmemelidir. 
