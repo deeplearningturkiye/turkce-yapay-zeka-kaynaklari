@@ -1,7 +1,7 @@
 
 Bu sayfada Türkiye'de derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) bulabilirsiniz. 
 
-Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** Deep Learning Türkiye topluluğuna katılmak için deeplearningturkiye@gmail.com adresine e-posta gönderebilirsiniz.
+Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** Deep Learning Türkiye topluluğuna katılmak için [başvuru formunu](https://docs.google.com/forms/d/e/1FAIpQLScUmwLsWTl-Xj5E4Ble2jtaSlezZ_gklQNA2fylYQ7KGH4DNQ/viewform) doldurabilirsiniz.
 
 Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilirsiniz:
 
