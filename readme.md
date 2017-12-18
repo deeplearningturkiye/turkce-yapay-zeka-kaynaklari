@@ -1,11 +1,11 @@
 
 Bu sayfada Türkiye'de derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) alanında yapılan çalışmaları (blog yazısı, video ders, bilimsel makale, kodlar, verisetleri) bulabilirsiniz. 
 
-Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** Deep Learning Türkiye topluluğuna katılmak için deeplearningturkiye@gmail.com adresine e-posta gönderebilirsiniz.
+Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** Deep Learning Türkiye topluluğuna katılmak için [başvuru formunu](https://docs.google.com/forms/d/e/1FAIpQLScUmwLsWTl-Xj5E4Ble2jtaSlezZ_gklQNA2fylYQ7KGH4DNQ/viewform) doldurabilirsiniz.
 
 Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilirsiniz:
 
-Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contrubuting.md) adresindeki talimatları izleyin.
+Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) adresindeki talimatları izleyin.
 
 
 ## İçerikler
@@ -29,6 +29,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contrubuting.md) a
 * **[Github](#github)**  
 
 * **[Bloglar](#bloglar)**
+
+* **[Kitaplar](#kitaplar)**
  
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/su-kara-kutuyu-acalim-yapay-sinir-aglari) (Merve Ayyüce Kızrak)
@@ -70,8 +72,10 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contrubuting.md) a
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
-### Optik Karakter Tanıma (Optical Character Recognition -OCR-)
-* [Optik Karakter Tanıma, Yazı Tanıma](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
+### Bilgisayarlı Görü (Computer Vision)
+* [Optik Karakter Tanıma, Yazı Tanıma (Optical Character Recognition -OCR-)](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
+* [YOLO: Gerçek Zamanlı Nesne Tespiti Kütüphanesi (Darknet) Kurulumu](http://blog.yavuzz.com/post/gercek-zamanli-nesne-tespiti-kutuphanesi-darknet-kurulumu) (Yavuz Kömeçoğlu)
+* [YOLO'da Kendi Özel Kişi yada Nesnemizin Algılanmasını Nasıl Sağlarız?](http://blog.yavuzz.com/post/yolo-da-kendi-ozel-nesnemizin-algilanmasini-nasil-saglariz) (Yavuz Kömeçoğlu)
 
 ## FRAMEWORKS
 ### Caffe
@@ -211,3 +215,9 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ## Bloglar
 * [veridefteri.com](http://veridefteri.com/)
+
+## Kitaplar
+* [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
+* [OpenCv Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://www.kitapyurdu.com/kitap/opencv-goruntu-isleme-ve-yapay-ogrenme/376463.html)
+
+
