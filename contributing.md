@@ -30,6 +30,27 @@ Video tarzı içeriklerde ek olarak '{}' parametreleri arasında içeriğin daki
 
 Kitaplar için kitabın aktif olarak satışının yapıldığı kitap hakkında açıklama bilgilerine yer veren bir alışveriş sitesi adresi ya da önizleme versiyonu verilebilir. 
 
+## Sorun Bildirimi (ISSUE Template)
+
+Sorunlu olan kayıtlar için (Kırık link Yanlış isim, ilegal içerik gibi)
+[issues](https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari/issues/new) sayfasından bildirimde bulunabilirsiniz.
+
+Eklenmesini istediğiniz yeni içerikleri Pull Request ile belirtmeniz gereklidir bunun için issue oluşturmayınız.
+
+Eksiklik olan içeriği satır no ile vermeye çalismayınız liste değişebilir. Yada bildirdiğiniz sorun birisi sizin açtığınız konuya bakmadan once (yazım yanlışı gibi) başka biri tarafından düzeltilebilir. Bu yüzden doğrudan 30. satırdaki açıklama yanlış şeklinde bir bildirim yanlıştır.
+
+Yanlış içeriği belirtmek için 
+
+..... ana konu başlığı altındaki ..... alt konusunun içerisindeki 
+  "yanlış olan içerik" ..... sorunu bulunmaktadır.
+  olması gereken "yeni içerik değeri -eğer çözüm öneriniz varsa-" şeklinde olmalıdır.
+
+Sorun açık bir biçimde belirtilmelidir. Sadece yanlış olmuş şeklinde bir açıklama fazla dikkate alınmayabilir.
+
+Onun yerine kırık link, rar arşivi hasarlı, makale ismi yanlış, web sayfası 9 yıl once yazılmış veya yazarın soy ismi yanlış girilmiş şeklinde ifadeler olmalıdır.
+
+Sorunu düzeltme imkanınız varsa olması gereken içeriği issue altinda belirtiniz.
+
 ### MarkDown Desteği
 GitHub Tarafından desteklenen içerik stilleri için daha fazla bilgiye 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) adresinden ulaşabilirsiniz.
