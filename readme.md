@@ -144,6 +144,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [CPP-ELM: Cryptographically Privacy-Preserving Extreme Learning Machine for Cloud Systems](http://www.atlantis-press.com/journals/ijcis/25885040) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
 ## VERİSETLERİ
+* [İşaret Dili İle Rakamlar Veriseti](https://github.com/ardamavi/Sign-Language-Digits-Dataset) (Türkiye Ankara Ayrancı Anadolu Lisesi - Zeynep Dikle & Arda Mavi)
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Yıldız Teknik Üniversitesi Kemik Doğal Dil İşleme Grubu Verisetleri](http://www.kemik.yildiz.edu.tr/?id=28) (YTÜ Kemik Doğal Dil İşleme Grubu)
 * [Turkish Sentiment Dataset](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) (Ahmet Hayran, Mustafa Sert)
