@@ -31,7 +31,9 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * **[Bloglar](#bloglar)**
 
 * **[Kitaplar](#kitaplar)**
- 
+
+* **[Yarışmalar (Kaggle vb.)](#yarismalar)**
+
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/su-kara-kutuyu-acalim-yapay-sinir-aglari) (Merve Ayyüce Kızrak)
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
@@ -220,4 +222,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
 * [OpenCv Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://www.kitapyurdu.com/kitap/opencv-goruntu-isleme-ve-yapay-ogrenme/376463.html)
 
+## Yarışmalar
+* [Kaggle Yarışma Deneyimim ve Gözlemlerim](https://burakozdemir.co.uk/article/kaggle-yarisma-deneyimim-ve-gozlemlerim) (Burak Özdemir)
+* [Kaggle BNP Paribas 93. Derece (Top %3) Yöntem ve Kod](https://datanoord.wordpress.com/2016/05/05/kaggle-bnp-paribas-93-derece-top-3-yontem-ve-kod/) (Ayşe Elvan Aldemir)
 
