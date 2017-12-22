@@ -217,6 +217,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ## Bloglar
 * [veridefteri.com](http://veridefteri.com/)
+* [Makine Öğrenimi Eğlencelidir](https://medium.com/t%C3%BCrkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)(Özgür Şahin)
 
 ## Kitaplar
 * [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
