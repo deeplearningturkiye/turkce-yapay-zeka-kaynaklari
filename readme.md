@@ -59,6 +59,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
+* [Derin Bir Karşılaştırma: Inception ve Res-Net Verisyonları] (http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derin-bir-karsilastirma-inception-ve-res-net-versiyonlari) (Merve Ayyüce Kızrak)
 * [Temel Bilgisayarlı Görü: Evrişimsel Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derine-daha-derine-evrisimsel-sinir-aglari) (Merve Ayyüce Kızrak)
 * [Evrişimli Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/convolutional-networks.html) (Arda Mavi)
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
