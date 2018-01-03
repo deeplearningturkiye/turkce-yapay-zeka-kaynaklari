@@ -119,6 +119,9 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 
 ## BİLİMSEL MAKALELER
+### Genel (Review/Survey)
+* [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](http://gmbd.gazipublishing.com/GMBD/ArchiveIssues/PDF/8a07e412-d9ea-e711-80f7-005056b0673e) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
+
 ### Bilgisayarlı Görü (Computer Vision)
 * [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Face Recognition Classifier Based on Dimension Reduction in Deep Learning Properties](http://ieeexplore.ieee.org/document/7960368/) (Ahmet Bilgiç, Onur Can Kurban, Tülay Yıldırım)
