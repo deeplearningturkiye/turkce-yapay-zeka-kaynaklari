@@ -164,6 +164,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Turkish NLP Dataset](https://tscorpus.com)(Sezer, B., Sezer, T. 2013. TS Corpus: Herkes İçin Türkçe Derlem. Proceedings 27th National Linguistics Conference. May, 3-4 Mayıs 2013. Antalya, Kemer: Hacettepe University, English Linguistics Department. pp: 217-225)
 * [1B Tokens Turkish Corpus and Turkish word vectors and analogical reasoning task pairs](https://github.com/onurgu/linguistic-features-in-turkish-word-representations/releases)(Onur Gungor, Eray Yildiz, "Linguistic Features in Turkish Word Representations", SIU, Antalya, 2017)
 * [Turkish Language Resources compiled by Deniz Yüret](http://www.denizyuret.com/2006/11/turkish-resources.html)
+=======
 * [METU-Sabanci Turkish treebank](https://ii.metu.edu.tr/metu-corpus-development-group)
 * [SemEval-2016 ABSA Telecom Tweets-Turkish: Test Data-Phase A (Subtask 1)](http://metashare.ilsp.gr:8080/repository/browse/semeval-2016-absa-telecom-tweets-turkish-test-data-phase-a-subtask-1/5343e408ba0811e5ab4f842b2b6a04d71f53ece5fa7a4dd286e99e539ac3e27f/)
 * [SemEval-2016 ABSA Restaurant Reviews-Turkish: Train Data (Subtask 1)](http://metashare.ilsp.gr:8080/repository/browse/semeval-2016-absa-restaurant-reviews-turkish-train-data-subtask-1/ff5dad70676311e5bf9c842b2b6a04d71fa7fa3ba4504a228dafe0c24560585b/)
