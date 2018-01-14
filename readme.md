@@ -34,6 +34,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Yarışmalar (Kaggle vb.)](#yarışmalar)**
 
+* **[Mobil Uygulamalar](#mobiluygulamalar)**
+
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/su-kara-kutuyu-acalim-yapay-sinir-aglari) (Merve Ayyüce Kızrak)
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
@@ -237,3 +239,5 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Kaggle Yarışma Deneyimim ve Gözlemlerim](https://burakozdemir.co.uk/article/kaggle-yarisma-deneyimim-ve-gozlemlerim) (Burak Özdemir)
 * [Kaggle BNP Paribas 93. Derece (Top %3) Yöntem ve Kod](https://datanoord.wordpress.com/2016/05/05/kaggle-bnp-paribas-93-derece-top-3-yontem-ve-kod/) (Ayşe Elvan Aldemir)
 
+## Mobil Uygulamalar
+* [Görme Engelliler için Para Okuyucu](https://itunes.apple.com/tr/app/para-okuyucu/id1334298365?l=tr&mt=8) (Özgür Şahin)
