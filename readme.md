@@ -34,7 +34,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Yarışmalar (Kaggle vb.)](#yarışmalar)**
 
-* **[Mobil Uygulamalar](#mobiluygulamalar)**
+* **[Mobil Uygulamalar](#mobil-uygulamalar)**
 
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/su-kara-kutuyu-acalim-yapay-sinir-aglari) (Merve Ayyüce Kızrak)
