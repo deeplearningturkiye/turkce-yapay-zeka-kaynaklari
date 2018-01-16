@@ -181,6 +181,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## VİDEO DERSLER
 ### Genel
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
+* [ODTÜ Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016](http://obayo.ogam.metu.edu.tr/videolar) (ODTÜ)
 
 ### Yapay Sinir Ağları
 * [Neural Network 1 : Eğitime ve Kavramlara Giriş](https://youtu.be/B5MmXmMMuvI) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {23 dakika}
