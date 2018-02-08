@@ -223,6 +223,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## Github
 ### Doğal Dil İşleme
 * [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
+* [Turkish Word Embeddings with 900k data](https://github.com/savasy/TurkishWordEmbeddings) (Savas Y)
 
 ### Arama Algoritmaları
 * [C ile Ağaçlarda Bilgisiz/Bilmeden Arama Algoritmaları](https://github.com/Enes1313/Uninformed-Search-Strategies)  (Enes AYDIN)
