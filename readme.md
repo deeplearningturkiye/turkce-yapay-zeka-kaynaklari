@@ -3,7 +3,7 @@ Bu sayfada Türkiye'de derin öğrenme (deep learning) ve makine öğrenmesi (ma
 
 Sayfa, **Deep Learning Türkiye** topluluğu tarafından desteklenmektedir. Derin öğrenme ve makine öğrenmesiyle ilgili **çalışmalarınız var ise** Deep Learning Türkiye topluluğuna katılmak için [başvuru formunu](https://docs.google.com/forms/d/e/1FAIpQLScUmwLsWTl-Xj5E4Ble2jtaSlezZ_gklQNA2fylYQ7KGH4DNQ/viewform) doldurabilirsiniz.
 
-Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilirsiniz:
+Bizi [LinkedIn](http://linkedin.com/company/deep-learning-turkiye), [Facebook](https://www.facebook.com/deeplearningtr/) ve [Twitter](https://twitter.com/deeplearningtr)'da takip edebilir, [Medium-Türkçe](https://medium.com/deep-learning-turkiye) ve [Medium-İngilizce](https://medium.com/deep-learning-turkey) platformunda da blog yazılarımızı okuyabilir, isterseniz katkı sağlayabilirsiniz:
 
 Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) adresindeki talimatları izleyin.
 
