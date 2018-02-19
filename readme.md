@@ -49,6 +49,10 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Derin Öğrenme , Yapay Zeka ve Bilgisayar Bilim](http://sayilarvekuramlar.blogspot.com/2015/12/bilgisayar-bilim-yapay-zeka.html) (Burak Bayramlı)
 * [Makine Öğrenimi Eğlencelidir](https://medium.com/t%C3%BCrkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)(Özgür Şahin)
 * [Makine Öğrenmesi Nedir?](https://medium.com/türkiye/makine-öğrenmesi-nedir-20dee450b56e) (Halil İbrahim Şafak)
+* [Makine Öğrenmesi 101](https://veribilimcisi.com/makine-ogrenmesi/) (Seray Beşer)
+* [Derin Öğrenme 101](https://veribilimcisi.com/derin-ogrenme-101/) (Seray Beşer)
+* [Makine Öğrenmesi Matematiği](https://veribilimcisi.com/makine-ogrenmesi-matematigi/) (Seray Beşer)
+
 
 ## ALGORİTMALAR
 
@@ -108,7 +112,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
 * [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
 * [Tensorflow Türkçe Eğitim Dökümanları](https://github.com/Aelvangunduz/tensorflow_tutorials) (Ayse Elvan Aydemir)
-
+* [Tensorflow 101](https://veribilimcisi.com/tensorflow-101/) (Seray Beşer)
 
 
 ### PyTorch
@@ -238,6 +242,8 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## Bloglar
 * [veridefteri.com](http://veridefteri.com/)
 * [zekimakine.com](http://zekimakine.com/)
+* [veribilimcisi.com](https://veribilimcisi.com/)
+
 ## Kitaplar
 * [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
 * [OpenCv Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://www.kitapyurdu.com/kitap/opencv-goruntu-isleme-ve-yapay-ogrenme/376463.html)
