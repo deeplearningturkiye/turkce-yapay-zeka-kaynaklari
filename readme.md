@@ -248,3 +248,4 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ## Mobil Uygulamalar
 * [Görme Engelliler için Para Okuyucu](https://itunes.apple.com/tr/app/para-okuyucu/id1334298365?l=tr&mt=8) (Özgür Şahin)
+* [VisionDict](https://itunes.apple.com/tr/app/visiondict/id1299943619?mt=8) (Kadir Mert Barutçuoğlu)
