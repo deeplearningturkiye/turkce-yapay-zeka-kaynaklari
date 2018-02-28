@@ -243,6 +243,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [veridefteri.com](http://veridefteri.com/)
 * [zekimakine.com](http://zekimakine.com/)
 * [veribilimcisi.com](https://veribilimcisi.com/)
+* [alpslabel.wordpress.com](https://alpslabel.wordpress.com//)
 
 ## Kitaplar
 * [Yapay Öğrenme - Ethem Alpaydın](http://www.idefix.com/Kitap/Yapay-Ogrenme/Ethem-Alpaydin/Bilim/Populer-Bilim/urunno=0000000362293)
