@@ -18,6 +18,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Frameworks](#frameworks)**  
 
+* **[Donanım ve Bulut Destekleri](#donanim-ve-bulut-destekleri)**
+
 * **[Bilimsel Makaleler](#bİlİmsel-makaleler)**  
 
 * **[Verisetleri](#verİsetlerİ)**  
@@ -126,6 +128,24 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 ### FANN
 * [FANN Tool Kılavuzu](https://www.slideshare.net/bluekid/fann-tool-klavuzu) (Birol Kuyumcu)
 
+## DONANIM VE BULUT DESTEKLERİ
+
+### Donanım
+
+#### NVIDIA Titan Serisi
+
+#### NVIDIA Jetson TX Serisi
+
+#### Intel-Movidius Neural Compute Stick
+* [INTEL-Movidius Neural Compute Stick Nedir ve Nasıl Kullanılır](http://www.ayyucekizrak.com/blogdetay/intel-movidius/intel-movidius-neural-compute-stick-nedir-ve-nasil-kullanilir) (Merve Ayyüce Kızrak)
+* [Raspberry Pi 3 üzerinde Intel Movidius Neural Compute Stick ile Derin Öğrenme Uygulamaları Çalıştırma](http://blog.yavuzz.com/post/raspberry-pi-3-uzerinde-intel-movidius-neural-compute-stick-ile-derin-ogrenme-uygulamalari-calistirma) (Yavuz Kömeçoğlu)
+
+### Bulut
+
+#### Google  Colaboratory 
+* [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e) (Fuat)
+
+#### Microsoft Azure Notebook
 
 ## BİLİMSEL MAKALELER
 ### Genel (Review/Survey)
