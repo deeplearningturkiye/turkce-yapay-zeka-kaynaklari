@@ -222,7 +222,9 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Bilgisayarlı Görü
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {30 dakika}
+* [Derin Öğrenmeye Derinlemesine Dalış](https://www.youtube.com/watch?v=zJPW6Lyf_Xs) (Şefik İlkin Serengil @Softtech Sahnesi) {52 dakika}
 * [Makine Öğrenmesi Çağında Hayatta Kalma Rehberi](https://youtu.be/P2MwuGpRgSQ) (Şefik İlkin Serengil @İstanbul Coding Talks) {84 dakika}
+* [Derin Öğrenme: Dünü, Bugünü, Yarını](https://www.youtube.com/watch?v=ITCD2Z4jT8w) (Şefik İlkin Serengil @Bilgisayar Mühendisleri Odası) {100 dakika}
 * [Keras ile Convolutional Neural Networks ](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e/) (Mehmet Burak Sayıcı)
 * [Keras ile Convolutional Neural Networks ](https://www.youtube.com/watch?v=RNWjwdEQHOQ&list=PLRRY18KNZTgUyaxSRvExF7zNsIpaehl5e/) (Mehmet Burak Sayıcı)
 
