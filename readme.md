@@ -54,6 +54,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Makine Öğrenmesi 101](https://veribilimcisi.com/makine-ogrenmesi/) (Seray Beşer)
 * [Derin Öğrenme 101](https://veribilimcisi.com/derin-ogrenme-101/) (Seray Beşer)
 * [Makine Öğrenmesi Matematiği](https://veribilimcisi.com/makine-ogrenmesi-matematigi/) (Seray Beşer)
+* [Veri Bilimcisi Olma Rehberi](http://bilisim.io/2017/09/28/veri-bilimcisi-olma-rehberi/) (Şefik İlkin Serengil)
 
 
 ## ALGORİTMALAR
@@ -67,6 +68,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
 * [Yapay Sinir Ağları](http://www.akanesen.com/2017/09/yapay-sinir-aglar.html) (Birol Akan Esen)
 * [Yapay Sinir Ağları Temel Kavramlar: Perceptron, Skor fonksiyonu ve Hata hesaplaması(loss function)](https://www.linkedin.com/pulse/derin-öğrenme-uygulamalarında-temel-kavramlar-skor-ve-çarkacı/) (Necmettin Çarkacı)
+* [Nöral Ağlar: Geçmiş Hatalardan Dersler Çıkarmak](http://bilisim.io/2017/07/08/noral-aglar-gecmis-hatalardan-dersler-cikarmak/) (Şefik İlkin Serengil)
+* [Nöral Ağlar Öğrenme Algoritması Anlama Kılavuzu: Geri Yayılım Algoritması](http://bilisim.io/2017/07/11/noral-aglar-ogrenme-algoritmasi-anlama-kilavuzu-geri-yayilim-algoritmasi/) (Şefik İlkin Serengil)
 
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
@@ -74,6 +77,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Temel Bilgisayarlı Görü: Evrişimsel Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derine-daha-derine-evrisimsel-sinir-aglari) (Merve Ayyüce Kızrak)
 * [Evrişimli Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/convolutional-networks.html) (Arda Mavi)
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
+* [Konvolüsyonel Nöral Ağlara Kısa Bir Giriş](http://bilisim.io/2018/01/07/konvolusyonel-noral-aglara-kisa-bir-giris/) (Şefik İlkin Serengil)
+* [Öğrenim Transferi: Keras ile Inception V3 kullanımı](http://bilisim.io/2018/01/22/ogrenim-transferi-keras-ile-inception-v3-kullanimi/) (Şefik İlkin Serengil)
 
 ### Kapsül Ağları (Capsule Networks)
 * [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks) (Merve Ayyüce Kızrak)
