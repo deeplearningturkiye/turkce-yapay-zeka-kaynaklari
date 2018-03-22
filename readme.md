@@ -210,6 +210,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Arrhythmia Data Set](https://archive.ics.uci.edu/ml/datasets/arrhythmia)(H. Altay Guvenir, Burak Acar, Gulsen Demiroz, Ayhan Cekin "A Supervised Machine Learning Algorithm for Arrhythmia Analysis." Proceedings of the Computers in Cardiology Conference, Lund, Sweden, 1997.)
 * [Artificial Characters Data Set](https://archive.ics.uci.edu/ml/datasets/Artificial+Characters)( H. Altay Guvenir et al, 1992)
 * [Turkish Natural Language Processing Toolkit- embedded in Zemberek](http://www.aliok.com.tr/projects/2014-10-02-trnltk.html)
+* [235.000 Turkish Product Reviews](https://github.com/fthbrmnby/turkish-text-data)
 ## VİDEO DERSLER
 ### Genel
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
