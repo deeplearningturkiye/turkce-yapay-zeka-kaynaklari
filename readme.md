@@ -39,8 +39,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * **[Mobil Uygulamalar](#mobil-uygulamalar)**
 
 ## TEMEL KONULAR
-* [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/su-kara-kutuyu-acalim-yapay-sinir-aglari) (Merve Ayyüce Kızrak)
-* [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/motivasyon-yapay-zeka-ve-derin-ogrenmenin-hikayesi) (Merve Ayyüce Kızrak)
+* [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](https://medium.com/deep-learning-turkiye/%C5%9Fu-kara-kutuyu-a%C3%A7alim-yapay-sinir-a%C4%9Flar%C4%B1-7b65c6a5264a) (Merve Ayyüce Kızrak)
+* [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](https://medium.com/deep-learning-turkiye/motivasyon-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-48d09355388d) (Merve Ayyüce Kızrak)
 * [Derin Öğrenme Başlangıç Seti - Donanım Ve Yazılım](http://www.ardamavi.com/2017/10/derin-ogrenme-baslangic-seti.html) (Arda Mavi)
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
@@ -73,15 +73,15 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
-* [Derin Bir Karşılaştırma: Inception ve Res-Net Verisyonları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derin-bir-karsilastirma-inception-ve-res-net-versiyonlari) (Merve Ayyüce Kızrak)
-* [Temel Bilgisayarlı Görü: Evrişimsel Sinir Ağları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derine-daha-derine-evrisimsel-sinir-aglari) (Merve Ayyüce Kızrak)
+* [Derin Bir Karşılaştırma: Inception ve Res-Net Verisyonları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derin-bir-karsilastirma-inception-ve-res-net-versiyonlari) (Bağlantı güncellenecek!) (Merve Ayyüce Kızrak)
+* [Derine Daha Derine: Evrişimli Sinir Ağları](https://medium.com/deep-learning-turkiye/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9) (Merve Ayyüce Kızrak)
 * [Evrişimli Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/convolutional-networks.html) (Arda Mavi)
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
 * [Konvolüsyonel Nöral Ağlara Kısa Bir Giriş](http://bilisim.io/2018/01/07/konvolusyonel-noral-aglara-kisa-bir-giris/) (Şefik İlkin Serengil)
 * [Öğrenim Transferi: Keras ile Inception V3 kullanımı](http://bilisim.io/2018/01/22/ogrenim-transferi-keras-ile-inception-v3-kullanimi/) (Şefik İlkin Serengil)
 
 ### Kapsül Ağları (Capsule Networks)
-* [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/yapay-zekada-buyuk-yenilik-kapsul-aglari-capsule-networks) (Merve Ayyüce Kızrak)
+* [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)](https://medium.com/deep-learning-turkiye/yapay-zekan%C4%B1n-yeni-ve-%C3%A7ekici-mimarisi-kaps%C3%BCl-a%C4%9F%C4%B1na-uygulamal%C4%B1-bir-bak%C4%B1%C5%9F-ef7310e3d847) (Merve Ayyüce Kızrak)
 
 ### Çekişmeli Üretici Ağlar (Generative Adversarial Networks)
 * [Generative Adversarial Networks — GAN nedir ? ( Türkçe )](https://medium.com/@mubuyuk51/generative-adversarial-networks-gan-nedir-t%C3%BCrk%C3%A7e-5819fe9c1fa7) (Muhammed Buyukkınacı)
@@ -142,7 +142,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 #### NVIDIA Jetson TX Serisi
 
 #### Intel-Movidius Neural Compute Stick
-* [INTEL-Movidius Neural Compute Stick Nedir ve Nasıl Kullanılır](http://www.ayyucekizrak.com/blogdetay/intel-movidius/intel-movidius-neural-compute-stick-nedir-ve-nasil-kullanilir) (Merve Ayyüce Kızrak)
+* [INTEL-Movidius Neural Compute Stick Nedir ve Nasıl Kullanılır](https://medium.com/deep-learning-turkiye/intel-movidius-neural-compute-stick-nedir-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-85fc9af6dc26) (Merve Ayyüce Kızrak)
 * [Raspberry Pi 3 üzerinde Intel Movidius Neural Compute Stick ile Derin Öğrenme Uygulamaları Çalıştırma](http://blog.yavuzz.com/post/raspberry-pi-3-uzerinde-intel-movidius-neural-compute-stick-ile-derin-ogrenme-uygulamalari-calistirma) (Yavuz Kömeçoğlu)
 
 ### Bulut
