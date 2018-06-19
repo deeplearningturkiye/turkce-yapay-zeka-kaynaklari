@@ -149,6 +149,9 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 #### Google  Colaboratory 
 * [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e) (Fuat)
+### Kurulum rehberleri
+#### Cuda ve Cudnn Kurulumu
+
 
 #### Microsoft Azure Notebook
 
