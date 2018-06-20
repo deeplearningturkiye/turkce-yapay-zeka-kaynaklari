@@ -151,7 +151,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e) (Fuat)
 ### Derin öğrenme için sistem hazırlama ve Kurulum rehberleri
 #### Ekran kartı sürücüsü, Cuda ve Cudnn Kurulumu
-
+* [NVIDIA GPU Sürücüsü, CUDA ve cudNN Kurulum Rehberi](https://github.com/earcz/NVIDIA-GPU-Surucusu-ve-CUDA-Yukleme) (Ender Ayhan Rencüzoğulları)
 
 #### Microsoft Azure Notebook
 
