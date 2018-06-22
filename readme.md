@@ -181,6 +181,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Automatically Annotated Turkish Corpus for Named Entity Recognition and Text Categorization using Large-Scale Gazetteers](https://arxiv.org/pdf/1702.02363.pdf) (H. Bahadır Şahin, Çağlar Tırkaz, Eray Yıldız, Mustafa Tolga Eren, Ozan Sönmez)
 * [Türkçe ve Doğal Dil İşleme](http://dergipark.gov.tr/download/article-file/207207) (Kemal Oflazer)
 * [Turkish and its challenges for language processing](https://link.springer.com/article/10.1007/s10579-014-9267-2) (Kemal Oflazer)
+* [Zemberek Docker REST Sunucusu](https://github.com/cbilgili/zemberek-nlp-server) (Canbey Bilgili)
 
 ### Ses İşleme
 * [A musical information retrieval system for Classical Turkish Music makams
