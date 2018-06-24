@@ -86,6 +86,9 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 ### Çekişmeli Üretici Ağlar (Generative Adversarial Networks)
 * [Generative Adversarial Networks — GAN nedir ? ( Türkçe )](https://medium.com/@mubuyuk51/generative-adversarial-networks-gan-nedir-t%C3%BCrk%C3%A7e-5819fe9c1fa7) (Muhammed Buyukkınacı)
 
+### Otokodlayıcılar (Autoencoders)
+* [Yapay Nöral Ağlar: Autoencoder'lar](https://www.farukeroglu.org/2018/06/yapay-noral-aglar-autoencoder.html) (Faruk Eroğlu)
+
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
 * [Keras ile Duygu Analizi](http://derindelimavi.blogspot.com.tr/2017/10/keras-ile-duygu-analizi.html) (Birol Kuyumcu)
