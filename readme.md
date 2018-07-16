@@ -277,6 +277,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Bilgisayarlı Görü
 * [CNN ile Görüntü Sınıflandırma](https://github.com/mesutpiskin/CaffeClassification) (Mesut Pişkin)
 * [Gerçek Zamanlı Cinsiyet Tespiti](https://github.com/mesutpiskin/GenderClassification) (Mesut Pişkin)
+* [Duygu-Duygu ve Cinsyet Tanıma] (https://github.com/ayyucekizrak/Duygu-Cinsiyet_Tanima-Emotion-Gender_Recognition) (Merve Ayyüce Kızrak-Yavuz Kömeçoğlu)
 
 ### Sinir Ağları
 * [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
