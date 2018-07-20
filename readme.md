@@ -50,6 +50,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Derin Öğrenme 3](http://derindelimavi.blogspot.com.tr/2015/11/derin-ogrenme-3.html) (Birol Kuyumcu)
 * [Derin Öğrenme , Yapay Zeka ve Bilgisayar Bilim](http://sayilarvekuramlar.blogspot.com/2015/12/bilgisayar-bilim-yapay-zeka.html) (Burak Bayramlı)
 * [Makine Öğrenimi Eğlencelidir](https://medium.com/t%C3%BCrkiye/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2ad33ae37bea)(Özgür Şahin)
+* [Makine Öğrenimi Eğlencelidir 2](https://medium.com/bili%C5%9Fim-hareketi/makine-%C3%B6%C4%9Frenimi-e%C4%9Flencelidir-2-k%C4%B1s%C4%B1m-6b464cbdf40c)(Atakan Yenel)
 * [Makine Öğrenmesi Nedir?](https://medium.com/türkiye/makine-öğrenmesi-nedir-20dee450b56e) (Halil İbrahim Şafak)
 * [Makine Öğrenmesi 101](https://veribilimcisi.com/makine-ogrenmesi/) (Seray Beşer)
 * [Derin Öğrenme 101](https://veribilimcisi.com/derin-ogrenme-101/) (Seray Beşer)
