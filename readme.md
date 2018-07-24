@@ -239,7 +239,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Yapay Zeka
 * [Yapay Zeka (Artificial Intelligence) - Oynatma Listesi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {48 Video}
 * [Yapay Zeka ve Deep Learning](https://www.youtube.com/watch?v=qk1RjRLIAq4) (Merve Ayyüce Kızrak) {68 dakika}
-* [Yapay Zeka Çağı | TEDxMETUAnkara](https://www.youtube.com/watch?v=d4kQVyAEsqA) (Dr. Şeyda Ertekin) {68 Video}
+* [Yapay Zeka Çağı | TEDxMETUAnkara](https://www.youtube.com/watch?v=d4kQVyAEsqA) (Dr. Şeyda Ertekin) {18 dakika}
 
 ### Bilgisayarlı Görü
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
