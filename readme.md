@@ -86,6 +86,7 @@ Sayfaya yeni kaynak eklemek için:
 
 ## VERİSETLERİ
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
+* [Modacruz ve Zara'da bulunan kıyafetlerin dataseti ](https://github.com/kemalcanbora/flora_fashion_scraping) (Kemalcan Bora)
 
 ## VİDEO DERSLER
 ### Genel
