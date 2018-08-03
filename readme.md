@@ -82,7 +82,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Uzun / Kısa Süreli Bellek (Long / Short Term Memory (LSTM))](https://veribilimcisi.com/2017/09/26/uzun-kisa-sureli-bellek-long-short-term-memory/) (Seray Beşer)
 * [Yarıçapsal Temelli Ağ (Radial Basis Network (RBF))](https://veribilimcisi.com/2017/09/26/yaricapsal-temelli-ag-radial-basis-network/) (Seray Beşer)
 * [Kapılı Tekrarlayan Hücre (Gated Recurrent Unit (GRU))](https://veribilimcisi.com/2017/09/26/kapili-tekrarlayan-hucre-gated-recurrent-unit/) (Seray Beşer)
-* [Otomatik Kodlayıcı (Auto Encoder (AE))](https://veribilimcisi.com/2017/09/26/otomatik-kodlayici-auto-encoder/) (Seray Beşer)
+* [Otomatik Kodlayıcı (Auto Encoder (AE))](https://veribilimcisi.com/2018/06/04/otomatik-kodlayici-auto-encoder/) (Seray Beşer)
 * [Varyasyonel Otomatik Kodlayıcı (Variational AE (VAE))](https://veribilimcisi.com/2018/06/04/varyasyonel-otomatik-kodlayici-variational-autoencoder/) (Seray Beşer)
 * [Gürültü Giderici Otomatik Kodlayıcı (Denoising AE (DAE))](https://veribilimcisi.com/2018/06/04/gurultu-giderici-otomatik-kodlayici-denoising-autoencoder/) (Seray Beşer)
 * [Seyrek Otomatik Kodlayıcı (Sparse AE (SAE))](https://veribilimcisi.com/2018/06/04/seyrek-otomatik-kodlayici-sparse-autoencoder/) (Seray Beşer)
