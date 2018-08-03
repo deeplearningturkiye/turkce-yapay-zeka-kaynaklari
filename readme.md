@@ -74,7 +74,24 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Yapay Sinir Ağları Temel Kavramlar: Perceptron, Skor fonksiyonu ve Hata hesaplaması(loss function)](https://www.linkedin.com/pulse/derin-öğrenme-uygulamalarında-temel-kavramlar-skor-ve-çarkacı/) (Necmettin Çarkacı)
 * [Nöral Ağlar: Geçmiş Hatalardan Dersler Çıkarmak](http://bilisim.io/2017/07/08/noral-aglar-gecmis-hatalardan-dersler-cikarmak/) (Şefik İlkin Serengil)
 * [Nöral Ağlar Öğrenme Algoritması Anlama Kılavuzu: Geri Yayılım Algoritması](http://bilisim.io/2017/07/11/noral-aglar-ogrenme-algoritmasi-anlama-kilavuzu-geri-yayilim-algoritmasi/) (Şefik İlkin Serengil)
-
+* [Yapay Sinir Ağları (Neural Network)](https://veribilimcisi.com/2017/08/13/yapay-sinir-aglari/) (Seray Beşer)
+* [Algılayıcı (Perceptron (P))](https://veribilimcisi.com/2017/08/13/yapay-sinir-aglari/#PERCEPTRON%20-%20ALGILAYICI) (Seray Beşer)
+* [İleri Beslemeli (Feed Forward (FF))](https://veribilimcisi.com/2017/09/26/ileri-beslemeli-sinir-aglari-feedforward-neural-network/) (Seray Beşer)
+* [Tekrarlayan Sinir Ağı (Recurrent Neural Network (RNN))](https://veribilimcisi.com/2017/09/26/tekrarlayan-sinir-aglari-recurrent-neural-network/) (Seray Beşer)
+* [Derin İleri Beslemeli (Deep Feed Forward (DFF))](https://veribilimcisi.com/2017/09/26/derin-ileri-beslemeli-sinir-aglari-deep-feedforward-network/) (Seray Beşer)
+* [Uzun / Kısa Süreli Bellek (Long / Short Term Memory (LSTM))](https://veribilimcisi.com/2017/09/26/uzun-kisa-sureli-bellek-long-short-term-memory/) (Seray Beşer)
+* [Yarıçapsal Temelli Ağ (Radial Basis Network (RBF))](https://veribilimcisi.com/2017/09/26/yaricapsal-temelli-ag-radial-basis-network/) (Seray Beşer)
+* [Kapılı Tekrarlayan Hücre (Gated Recurrent Unit (GRU))](https://veribilimcisi.com/2017/09/26/kapili-tekrarlayan-hucre-gated-recurrent-unit/) (Seray Beşer)
+* [Otomatik Kodlayıcı (Auto Encoder (AE))](https://veribilimcisi.com/2017/09/26/otomatik-kodlayici-auto-encoder/) (Seray Beşer)
+* [Varyasyonel Otomatik Kodlayıcı (Variational AE (VAE))](https://veribilimcisi.com/2018/06/04/varyasyonel-otomatik-kodlayici-variational-autoencoder/) (Seray Beşer)
+* [Gürültü Giderici Otomatik Kodlayıcı (Denoising AE (DAE))](https://veribilimcisi.com/2018/06/04/gurultu-giderici-otomatik-kodlayici-denoising-autoencoder/) (Seray Beşer)
+* [Seyrek Otomatik Kodlayıcı (Sparse AE (SAE))](https://veribilimcisi.com/2018/06/04/seyrek-otomatik-kodlayici-sparse-autoencoder/) (Seray Beşer)
+* [Markov Zinciri (Markov Chain (MC))](https://veribilimcisi.com/2017/09/26/markov-zinciri-markov-chain/) (Seray Beşer)
+* [Hopfield Ağı (Hopfield Network (HN))](https://veribilimcisi.com/2017/09/26/hopfield-agi-hopfield-network/) (Seray Beşer)
+* [Boltzmann Makinesi (Boltzmann Machine (BM))](https://veribilimcisi.com/2017/09/26/boltzmann-makinesi-boltzmann-machine/) (Seray Beşer)
+* [Kısıtlı Boltzmann Makinesi (Restricted BM (RBM))](https://veribilimcisi.com/2017/09/26/kisitli-boltzmann-makinesi-restricted-boltzmann-machine-rbm/) (Seray Beşer)
+* [Derin İnanç Ağı (Deep Belief Network (DBN))](https://veribilimcisi.com/2017/09/26/derin-inanc-agi-deep-belief-network/) (Seray Beşer)
+* [Konvolüsyonel Sinir Ağı (Convolutional Neural Network (CNN))](https://veribilimcisi.com/2017/09/26/konvolusyonel-sinir-agi-convolutional-neural-network/) (Seray Beşer)
 
 ### Evrişimli Sinir Ağları (Convolutional Neural Networks)
 * [Derin Bir Karşılaştırma: Inception ve Res-Net Verisyonları](http://www.ayyucekizrak.com/blogdetay/yapay-zeka-ve-derin-ogrenme-yazi-dizisi/derin-bir-karsilastirma-inception-ve-res-net-versiyonlari) (Bağlantı güncellenecek!) (Merve Ayyüce Kızrak)
@@ -92,6 +109,12 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 ### Otokodlayıcılar (Autoencoders)
 * [Yapay Nöral Ağlar: Autoencoder'lar](https://www.farukeroglu.org/2018/06/yapay-noral-aglar-autoencoder.html) (Faruk Eroğlu)
+* [Otomatik Kodlayıcı (Autoencoder)](https://veribilimcisi.com/2018/06/04/otomatik-kodlayici-auto-encoder/) (Seray Beşer)
+* [Gürültü Giderici Otomatik Kodlayıcı (Denoising Autoencoder)](https://veribilimcisi.com/2018/06/04/gurultu-giderici-otomatik-kodlayici-denoising-autoencoder/) (Seray Beşer)
+* [Seyrek Otomatik Kodlayıcı (Sparse Autoencoder)](https://veribilimcisi.com/2018/06/04/seyrek-otomatik-kodlayici-sparse-autoencoder/) (Seray Beşer)
+* [Varyasyonel Otomatik Kodlayıcı (Variational Autoencoder)](https://veribilimcisi.com/2018/06/04/varyasyonel-otomatik-kodlayici-variational-autoencoder/) (Seray Beşer)
+
+
 
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
@@ -290,6 +313,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Sinir Ağları
 * [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
 * [Cpp ile Yapay Sinir Ağları](https://github.com/Enes1313/Cpp-ile-YSA)  (Enes AYDIN)
+* [Makine Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi) (Seray Beşer)
 
 ## Bloglar
 * [veridefteri.com](http://veridefteri.com/)
