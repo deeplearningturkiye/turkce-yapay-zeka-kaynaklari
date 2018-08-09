@@ -292,6 +292,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Bozkırda Yapay Öğrenme Yaz Okulu 2017 - Sunumları](http://goo.gl/o2H9hA) (HUCVL)
 * [ODTü Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016 - Sunumları](https://obayo.ogam.metu.edu.tr/sunumlar) (ODTÜ)
 * [ODTü Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016 - Videoları](http://obayo.ogam.metu.edu.tr/videolar) (ODTÜ)
+* [Deep Learning Türkiye - İstatistiksel Dil İşleme - Prof. Dr. Kemal Oflazer - Sunumları](https://drive.google.com/drive/folders/1w0L5r_C0BA1VLP8uA2iPNl90F8lXkMuc?usp=sharing) (DLTR)
 
 ## Github
 ### Doğal Dil İşleme
