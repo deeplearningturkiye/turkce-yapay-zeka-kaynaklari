@@ -307,7 +307,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ### Bilgisayarlı Görü
 * [CNN ile Görüntü Sınıflandırma](https://github.com/mesutpiskin/CaffeClassification) (Mesut Pişkin)
 * [Gerçek Zamanlı Cinsiyet Tespiti](https://github.com/mesutpiskin/GenderClassification) (Mesut Pişkin)
-* [Duygu-Duygu ve Cinsyet Tanıma] (https://github.com/ayyucekizrak/Duygu-Cinsiyet_Tanima-Emotion-Gender_Recognition) (Merve Ayyüce Kızrak-Yavuz Kömeçoğlu)
+* [Duygu-Duygu ve Cinsyet Tanıma](https://github.com/ayyucekizrak/Duygu-Cinsiyet_Tanima-Emotion-Gender_Recognition) (Merve Ayyüce Kızrak-Yavuz Kömeçoğlu)
 * [CNN(Tensorflow) ile CIFAR10 Veri Setinin Sınıflandırılması ve Parametre Analizi](https://github.com/zekikus/Tensorflow-CNN-with-CIFAR10-Dataset) (Zeki Kuş)
 * [CNN ile FashionMNIST Veri Setinin Sınıflandırılması](https://github.com/zekikus/Tensorflow-CNN-with-FashionMNIST-Dataset) (Zeki Kuş)
 * [CNN(Keras) ile CIFAR10 Veri Setinin Sınıflandırılması](https://github.com/zekikus/Keras-CNN-with-CIFAR10-Dataset) (Zeki Kuş)
