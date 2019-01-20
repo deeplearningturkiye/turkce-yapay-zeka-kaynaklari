@@ -129,6 +129,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Optik Karakter Tanıma, Yazı Tanıma (Optical Character Recognition -OCR-)](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
 * [YOLO: Gerçek Zamanlı Nesne Tespiti Kütüphanesi (Darknet) Kurulumu](http://blog.yavuzz.com/post/gercek-zamanli-nesne-tespiti-kutuphanesi-darknet-kurulumu) (Yavuz Kömeçoğlu)
 * [YOLO'da Kendi Özel Kişi yada Nesnemizin Algılanmasını Nasıl Sağlarız?](http://blog.yavuzz.com/post/yolo-da-kendi-ozel-nesnemizin-algilanmasini-nasil-saglariz) (Yavuz Kömeçoğlu)
+* [Görüntü Tanıyan Mobil Uygulama Nasıl Geliştirilir?](https://medium.com/deep-learning-turkiye/g%C3%B6r%C3%BCnt%C3%BC-tan%C4%B1yan-mobil-uygulama-nas%C4%B1l-geli%C5%9Ftirilir-33760f7d827) (Özgür Şahin)
+* [10 Dakikada Görüntü Sınıflandıran Mobil Uygulama Geliştirin](https://medium.com/nsistanbul/10-dakikada-g%C3%B6r%C3%BCnt%C3%BC-s%C4%B1n%C4%B1fland%C4%B1ran-mobil-uygulama-geli%C5%9Ftirin-7567371839b0) (Özgür Şahin)
 
 ## FRAMEWORKS
 ### Caffe
