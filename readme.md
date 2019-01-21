@@ -320,6 +320,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Makine Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi) (Seray Beşer)
 
 ## Bloglar
+* [Deep Learning Türkiye Blog](http://medium.com/deep-learning-turkiye)
 * [veridefteri.com](http://veridefteri.com/)
 * [zekimakine.com](http://zekimakine.com/)
 * [veribilimcisi.com](https://veribilimcisi.com/)
