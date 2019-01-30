@@ -41,6 +41,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](https://medium.com/deep-learning-turkiye/%C5%9Fu-kara-kutuyu-a%C3%A7alim-yapay-sinir-a%C4%9Flar%C4%B1-7b65c6a5264a) (Merve Ayyüce Kızrak)
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](https://medium.com/deep-learning-turkiye/motivasyon-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-48d09355388d) (Merve Ayyüce Kızrak)
+* [Stanford Üniversitesi: CS 229 - Makine Öğrenimi - Türkçe](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning) (Hazırlayanlar: Amidi Kardeşler, Çevirenler: Başak Buluz, Ayyüce Kızrak, Yavuz Kömeçoğlu, Ekrem Çetinkaya, Ömer Bukte, Seray Beşer)
+* [Stanford Üniversitesi: CS 230 - Derin Öğrenme - Türkçe](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks) ((Hazırlayanlar: Amidi Kardeşler, Çevirenler: Başak Buluz, Ayyüce Kızrak, Yavuz Kömeçoğlu)
 * [Derin Öğrenme Başlangıç Seti - Donanım Ve Yazılım](http://www.ardamavi.com/2017/10/derin-ogrenme-baslangic-seti.html) (Arda Mavi)
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
 * [İnsanda Ve Makinede Öğrenme](http://www.ardamavi.com/2017/07/insanda-ve-makinede-ogrenme.html) (Arda Mavi)
