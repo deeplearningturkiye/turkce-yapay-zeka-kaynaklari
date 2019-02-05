@@ -12,7 +12,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Temel Konular](#temel-konular)**  
 
-* **[Algoritmalar](#algorİtmalar)**  
+* **[Algoritmalar](#algoritmalar)**  
 
 * **[Kullanım Alanları](#kullanim-alanlari)**  
 
@@ -20,11 +20,11 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Donanım ve Bulut Destekleri](#donanim-ve-bulut-destekleri)**
 
-* **[Bilimsel Makaleler](#bİlİmsel-makaleler)**  
+* **[Bilimsel Makaleler](#bilimsel-makaleler)**  
 
-* **[Verisetleri](#verİsetlerİ)**  
+* **[Verisetleri](#verisetleri)**  
 
-* **[Video Dersler](#vİdeo-dersler)**  
+* **[Video Dersler](#video-dersler)**  
 
 * **[Sunumlar](#sunumlar)**  
 
@@ -60,13 +60,17 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Data Science ve Python](https://www.udemy.com/data-science-sfrdan-uzmanlga-veri-bilimi-2/) (Kaan Can Yılmaz)
 * [Data Visualization](https://www.udemy.com/data-visualization-adan-zye-veri-gorsellestirme-3/) (Kaan Can Yılmaz)
 * [Makine Öğrenmesi](https://www.udemy.com/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/) (Kaan Can Yılmaz)
+* [CS 229 - Makine Öğrenimi - Gözetimli Öğrenme El Kitabı](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-supervised-learning) (Çeviri: Başak Buluz ve Merve Ayyüce Kızrak)
+* [CS 229 - Makine Öğrenimi - Gözetimsiz Öğrenme El Kitabı](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-unsupervised-learning) (Çeviri: Yavuz Kömeçoğlu ve Başak Buluz)
+* [CS 229 - Makine Öğrenimi - Derin Öğrenme El Kitabı](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-deep-learning) (Çeviri: Ekrem Çetinkaya ve Omer Bukte)
+* [CS 229 - Makine Öğrenimi - Gözetimli Öğrenme El Kitabı](https://stanford.edu/~shervine/l/tr/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks) (Çeviri: Seray Beşer, Ayyüce Kızrak ve Yavuz Kömeçoğlu)
 
 ## ALGORİTMALAR
 
 ### Algoritmalar için Püf Noktaları
 * [Derin Öğrenme Uygulamalarında En Sık kullanılan Hiper-parametreler](https://medium.com/deep-learning-turkiye/derin-ogrenme-uygulamalarinda-en-sik-kullanilan-hiper-parametreler-ece8e9125c4) (Necmettin Çarkacı)
 * [Derin Öğrenme Uygulamalarında Başarım İyileştirme (Regularization) Yöntemleri](https://medium.com/@necmettin.carkaci/derin-öğrenme-uygulamalarında-başarım-iyileştirme-yöntemleri-regularization-fb521e64c30f) (Necmettin Çarkacı)
-
+* [CS 230 - Derin Öğrenme - Derin Öğrenme Püf Noktaları ve İpuçları El Kitabı](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks) (Çeviri: Ayyüce Kızrak ve Yavuz Kömeçoğlu)
 
 ### Yapay Sinir Ağları (Artificial Neural Networks)
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
@@ -100,6 +104,10 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Tensorflow Tabanlı Keras ile MNIST Veriseti Üzerinde Çalışma](http://erdoganb.com/2017/04/kerastensorflow-ile-rakamlari-tanima-mnist-dataset/) (Erdoğan Bavaş)
 * [Konvolüsyonel Nöral Ağlara Kısa Bir Giriş](http://bilisim.io/2018/01/07/konvolusyonel-noral-aglara-kisa-bir-giris/) (Şefik İlkin Serengil)
 * [Öğrenim Transferi: Keras ile Inception V3 kullanımı](http://bilisim.io/2018/01/22/ogrenim-transferi-keras-ile-inception-v3-kullanimi/) (Şefik İlkin Serengil)
+* [CS 230 - Derin Öğrenme - Evrişimli Sinir Ağları El Kitabı](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks) (Çeviri: Ayyüce Kızrak ve Yavuz Kömeçoğlu)
+
+### Tekrarlayan Yapay Sinir Ağları (Recurrent Neural Networks)
+* [CS 230 - Derin Öğrenme - Tekrarlayan Yapay Sinir Ağları El Kitabı](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks) (Çeviri: Başak Buluz ve Yavuz Kömeçoğlu)
 
 ### Kapsül Ağları (Capsule Networks)
 * [Yapay Zekada Büyük Yenilik: Kapsül Ağları (Capsule Networks)](https://medium.com/deep-learning-turkiye/yapay-zekan%C4%B1n-yeni-ve-%C3%A7ekici-mimarisi-kaps%C3%BCl-a%C4%9F%C4%B1na-uygulamal%C4%B1-bir-bak%C4%B1%C5%9F-ef7310e3d847) (Merve Ayyüce Kızrak)
@@ -113,7 +121,6 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Gürültü Giderici Otomatik Kodlayıcı (Denoising Autoencoder)](https://veribilimcisi.com/2018/06/04/gurultu-giderici-otomatik-kodlayici-denoising-autoencoder/) (Seray Beşer)
 * [Seyrek Otomatik Kodlayıcı (Sparse Autoencoder)](https://veribilimcisi.com/2018/06/04/seyrek-otomatik-kodlayici-sparse-autoencoder/) (Seray Beşer)
 * [Varyasyonel Otomatik Kodlayıcı (Variational Autoencoder)](https://veribilimcisi.com/2018/06/04/varyasyonel-otomatik-kodlayici-variational-autoencoder/) (Seray Beşer)
-
 
 
 ## KULLANIM ALANLARI
@@ -146,13 +153,11 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Keras Kurulumu](http://ibrahimdelibasoglu.blogspot.com.tr/2017/08/python-tensorflow-ile-keras-derin.html) (İbrahim Delibaşoğlu)
 * [Keras ile Sonar Verisi Sınıflandırma](http://ibrahimdelibasoglu.blogspot.com.tr/2017/09/keras-ile-derin-ogrenmeye-giris-snflama.html) (İbrahim Delibaşoğlu)
 
-
 ### TensorFlow
 * [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
 * [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
 * [Tensorflow Türkçe Eğitim Dökümanları](https://github.com/Aelvangunduz/tensorflow_tutorials) (Ayse Elvan Aydemir)
 * [Tensorflow 101](https://veribilimcisi.com/tensorflow-101/) (Seray Beşer)
-
 
 ### PyTorch
 * [PyTorch ile Derin Öğrenmeye Giriş: Kurulum](https://medium.com/@ozgungenc/pytorch-ile-derin-%C3%B6%C4%9Frenmeye-giri%C5%9F-kurulum-2194a06ce0c) (Özgün Genç)
@@ -189,13 +194,12 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 ## BİLİMSEL MAKALELER
 ### Genel (Review/Survey)
-* [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](http://dergipark.gov.tr/download/article-file/394923) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık )
+* [Derin Öğrenme Yöntemleri ve Uygulamaları Hakkında Bir İnceleme](http://dergipark.gov.tr/download/article-file/394923) (Abdulkadir Şeker, Banu Diri, Hasan Hüseyin Balık)
 
 ### Bilgisayarlı Görü (Computer Vision)
 * [MARVEL: A Large-Scale Image Dataset for Maritime Vessels](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_11) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Face Recognition Classifier Based on Dimension Reduction in Deep Learning Properties](http://ieeexplore.ieee.org/document/7960368/) (Ahmet Bilgiç, Onur Can Kurban, Tülay Yıldırım)
-* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, 
-Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
+* [Signature recognition application based on deep learning](http://ieeexplore.ieee.org/abstract/document/7960454/) (Nurullah Çalık, Onur Can Kurban, Ali Rıza Yılmaz, Lütfiye Durak Ata, Tülay Yıldırım)
 * [On identifying leaves: A comparison of CNN with classical ML methods](http://ieeexplore.ieee.org/abstract/document/7960257/) (Mohamed Abbas Hedjazi, Ikram Kourbane, Yakup Genç)
 * [On identifying leaves: A comparison of CNN with classical ML methods](https://web.cs.hacettepe.edu.tr/~aykut/papers/ieee-tmm17.pdf) (Çağdaş Bak, Aysun Koçak, Erkut Erdem, Aykut Erdem)
 * [Exploiting Convolution Filter Patterns for Transfer Learning](https://arxiv.org/abs/1708.06973) (Mehmet Aygün, Yusuf Aytar, Hazım Kemal Ekenel)
@@ -252,6 +256,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [235.000 Turkish Product Reviews](https://github.com/fthbrmnby/turkish-text-data)
 * [ODP TR-30 Turkish Search Result Clustering Dataset](https://github.com/faraday/odp-tr30) (Ç. Çallı, 2010)
 * [Modacruz ve Zara'da bulunan kıyafetlerin dataseti ](https://github.com/kemalcanbora/flora_fashion_scraping) (Kemalcan Bora)
+
 ## VİDEO DERSLER
 ### Genel
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
@@ -299,7 +304,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## Github
 ### Doğal Dil İşleme
 * [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
-* [Turkish Word Embeddings with 900k data](https://github.com/savasy/TurkishWordEmbeddings) (Savas Y)
+* [Turkish Word Embeddings with 900k data](https://github.com/savasy/TurkishWordEmbeddings) (Savaş Yıldırım)
 * [A finite-state morphological analyzer for Turkish](https://github.com/coltekin/TRmorph) (Çağrı Çöltekin)
 * [Keras ile Türkçe Anlam Analizi(Olumlu - Olumsuz)](https://github.com/zekikus/Turkce-Anlam-Analizi) (Zeki Kuş)
 
