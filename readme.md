@@ -316,7 +316,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 
 ### Sinir Ağları
 * [Geri Beslemeli Yapay Sinir Ağı ile Karakter Tanıma](https://github.com/mesutpiskin/ANNCharacterRecognition) (Mesut Pişkin)
-* [Cpp ile Yapay Sinir Ağları](https://github.com/Enes1313/Cpp-ile-YSA)  (Enes AYDIN)
+* [Yapay Sinir Ağları Kütüphanesi](https://github.com/Enes1313/YapaySA)  (Enes AYDIN)
 * [Makine Ogrenmesi](https://github.com/SerayBeser/Makine-Ogrenmesi) (Seray Beşer)
 
 ## Bloglar
