@@ -120,6 +120,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 ### Doğal Dil İşleme (Natural Language Processing)
 * [Keras ile Duygu Analizi](http://derindelimavi.blogspot.com.tr/2017/10/keras-ile-duygu-analizi.html) (Birol Kuyumcu)
 * [Türkçe Metin İşlemede İlk Adımlar](http://www.veridefteri.com/2017/11/20/turkce-metin-islemede-ilk-adimlar/) (İlker Birbil)
+* [Yeni Bir Kelime Temsil Yöntemi: Chalem](https://www.farukeroglu.org/2019/05/yeni-bir-kelime-temsil-yontemi-chalem.html) (Faruk Eroğlu)
 
 ### Siber Güvenlik (Cyber Security)
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
