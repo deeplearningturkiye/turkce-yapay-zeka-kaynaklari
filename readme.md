@@ -56,10 +56,10 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Derin Öğrenme 101](https://veribilimcisi.com/derin-ogrenme-101/) (Seray Beşer)
 * [Makine Öğrenmesi Matematiği](https://veribilimcisi.com/makine-ogrenmesi-matematigi/) (Seray Beşer)
 * [Veri Bilimcisi Olma Rehberi](http://bilisim.io/2017/09/28/veri-bilimcisi-olma-rehberi/) (Şefik İlkin Serengil)
-* [Python: Sıfırdan Uzmanlığa Programlama ](https://www.udemy.com/python-sfrdan-uzmanlga-programlama-1/) (Kaan Can Yılmaz)
-* [Data Science ve Python](https://www.udemy.com/data-science-sfrdan-uzmanlga-veri-bilimi-2/) (Kaan Can Yılmaz)
-* [Data Visualization](https://www.udemy.com/data-visualization-adan-zye-veri-gorsellestirme-3/) (Kaan Can Yılmaz)
-* [Makine Öğrenmesi](https://www.udemy.com/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/) (Kaan Can Yılmaz)
+* [Python: Sıfırdan Uzmanlığa Programlama ](https://www.udemy.com/python-sfrdan-uzmanlga-programlama-1/) (Datai Team)
+* [Data Science ve Python](https://www.udemy.com/data-science-sfrdan-uzmanlga-veri-bilimi-2/) (Datai Team)
+* [Data Visualization](https://www.udemy.com/data-visualization-adan-zye-veri-gorsellestirme-3/) (Datai Team)
+* [Makine Öğrenmesi](https://www.udemy.com/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/) (Datai Team)
 
 ## ALGORİTMALAR
 
