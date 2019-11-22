@@ -28,7 +28,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Sunumlar](#sunumlar)**  
 
-* **[Github](#github)**  
+* **[GitHub](#github)**  
 
 * **[Bloglar](#bloglar)**
 
@@ -231,7 +231,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [İşaret Dili İle Rakamlar Veriseti](https://github.com/ardamavi/Sign-Language-Digits-Dataset) (Türkiye Ankara Ayrancı Anadolu Lisesi - Zeynep Dikle & Arda Mavi)
 * [Marvel: A Large-Scale Image Dataset for Maritime Vessels](https://github.com/avaapm/marveldataset2016) (Erhan Gündoğdu, Berkan Solmaz, Veysel Yücesoy, Aykut Koç)
 * [Yıldız Teknik Üniversitesi Kemik Doğal Dil İşleme Grubu Verisetleri](http://www.kemik.yildiz.edu.tr/?id=28) (YTÜ Kemik Doğal Dil İşleme Grubu)
-* [TTC-3600: A new benchmark dataset for Turkish text categorization] (https://github.com/denopas/TTC-3600) (Deniz Kılınç, Akın Özçift, Fatma Bozyigit, Pelin Yıldırım, Fatih Yücalar, Emin Borandag)
+* [TTC-3600: A new benchmark dataset for Turkish text categorization](https://github.com/denopas/TTC-3600) (Deniz Kılınç, Akın Özçift, Fatma Bozyigit, Pelin Yıldırım, Fatih Yücalar, Emin Borandag)
 * [Turkish Sentiment Dataset](http://www.baskent.edu.tr/~msert/research/datasets/SentimentDatasetTR.html) (Ahmet Hayran, Mustafa Sert)
 * [English/Turkish Wikipedia Named-Entity Recognition and Text Categorization Dataset](https://data.mendeley.com/datasets/cdcztymf4k/1) (H. Bahadır Şahin, Çağlar Tırkaz, Eray Yıldız, Mustafa Tolga Eren, Ozan Sönmez)
 * [Turkish NLP Dataset](https://tscorpus.com)(Sezer, B., Sezer, T. 2013. TS Corpus: Herkes İçin Türkçe Derlem. Proceedings 27th National Linguistics Conference. May, 3-4 Mayıs 2013. Antalya, Kemer: Hacettepe University, English Linguistics Department. pp: 217-225)
@@ -296,7 +296,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [ODTü Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016 - Videoları](http://obayo.ogam.metu.edu.tr/videolar) (ODTÜ)
 * [Deep Learning Türkiye - İstatistiksel Dil İşleme - Prof. Dr. Kemal Oflazer - Sunumları](https://drive.google.com/drive/folders/1w0L5r_C0BA1VLP8uA2iPNl90F8lXkMuc?usp=sharing) (DLTR)
 
-## Github
+## GitHub
 ### Doğal Dil İşleme
 * [Zemberek Parser for Python3](https://github.com/kemalcanbora/zemberek_parser)  (Kemalcan Bora)
 * [Turkish Word Embeddings with 900k data](https://github.com/savasy/TurkishWordEmbeddings) (Savas Y)
