@@ -273,7 +273,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 ## VİDEO DERSLER
 ### Genel
 * [Baştan Sona Makine Öğrenmesi Projesi](https://www.youtube.com/playlist?list=PLk54I7lqQSsbsxz-LWIOt6mrO5n0mpe-J) (Mert Cobanov)
-* [Feature Selection Teknikleri)(https://www.youtube.com/playlist?list=PLk54I7lqQSsZOYkUpeKaKJ1KLvqPhszJi) (Mert Cobanov)
+* [Feature Selection Teknikleri](https://www.youtube.com/playlist?list=PLk54I7lqQSsZOYkUpeKaKJ1KLvqPhszJi) (Mert Cobanov)
 * [Pandas Egzersizleri](https://www.youtube.com/playlist?list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp) (Mert Cobanov)
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
 * [ODTÜ Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016](http://obayo.ogam.metu.edu.tr/videolar) (ODTÜ)
