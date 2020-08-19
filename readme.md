@@ -16,6 +16,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 * **[Kullanım Alanları](#kullanim-alanlari)**  
 
+* **[Veri Bilimi](#veri-bilimi)**
+
 * **[Frameworks](#frameworks)**  
 
 * **[Donanım ve Bulut Destekleri](#donanim-ve-bulut-destekleri)**
@@ -60,6 +62,8 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Data Science ve Python](https://www.udemy.com/data-science-sfrdan-uzmanlga-veri-bilimi-2/) (Kaan Can Yılmaz)
 * [Data Visualization](https://www.udemy.com/data-visualization-adan-zye-veri-gorsellestirme-3/) (Kaan Can Yılmaz)
 * [Makine Öğrenmesi](https://www.udemy.com/machine-learning-ve-python-adan-zye-makine-ogrenmesi-4/) (Kaan Can Yılmaz)
+* [Güncel Yapay Zeka Kaynakları](https://medium.com/deep-learning-turkiye/yapay-zeka-kaynaklar%C4%B1m-online-kaynaklar-5c1188283fb2) (Mert Cobanov)
+* [Machine Learning'e Başlarken](https://cobanov.github.io/sss/) (Mert Cobanov)
 
 ## ALGORİTMALAR
 
@@ -69,6 +73,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 
 ### Yapay Sinir Ağları (Artificial Neural Networks)
+* [Bir Sinir Ağını Kağıda Dökelim](https://medium.com/deep-learning-turkiye/bir-sinir-a%C4%9F%C4%B1n%C4%B1-ka%C4%9F%C4%B1da-d%C3%B6kelim-4bb644fa8840) (Mert Cobanov)
 * [Yapay Sinir Ağlarına Giriş](http://www.ardamavi.com/2017/07/sinir-aglari.html) (Arda Mavi)
 * [Yapay Sinir Ağları](http://www.akanesen.com/2017/09/yapay-sinir-aglar.html) (Birol Akan Esen)
 * [Yapay Sinir Ağları Temel Kavramlar: Perceptron, Skor fonksiyonu ve Hata hesaplaması(loss function)](https://www.linkedin.com/pulse/derin-öğrenme-uygulamalarında-temel-kavramlar-skor-ve-çarkacı/) (Necmettin Çarkacı)
@@ -115,7 +120,6 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Varyasyonel Otomatik Kodlayıcı (Variational Autoencoder)](https://veribilimcisi.com/2018/06/04/varyasyonel-otomatik-kodlayici-variational-autoencoder/) (Seray Beşer)
 
 
-
 ## KULLANIM ALANLARI
 ### Doğal Dil İşleme (Natural Language Processing)
 * [Keras ile Duygu Analizi](http://derindelimavi.blogspot.com.tr/2017/10/keras-ile-duygu-analizi.html) (Birol Kuyumcu)
@@ -132,6 +136,17 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Görüntü Tanıyan Mobil Uygulama Nasıl Geliştirilir?](https://medium.com/deep-learning-turkiye/g%C3%B6r%C3%BCnt%C3%BC-tan%C4%B1yan-mobil-uygulama-nas%C4%B1l-geli%C5%9Ftirilir-33760f7d827) (Özgür Şahin)
 * [10 Dakikada Görüntü Sınıflandıran Mobil Uygulama Geliştirin](https://medium.com/nsistanbul/10-dakikada-g%C3%B6r%C3%BCnt%C3%BC-s%C4%B1n%C4%B1fland%C4%B1ran-mobil-uygulama-geli%C5%9Ftirin-7567371839b0) (Özgür Şahin)
 
+## Veri Bilimi
+### Veri Önişleme
+* [Feature Selection Teknikleri](https://github.com/cobanov/Feature_Selection) (Mert Cobanov)
+* [Pipeline Nedir? Sci-kit Learn](https://youtu.be/QHk_eCgbZQE) (Mert Cobanov)
+* [Data Processing Script'i Yazalım](https://youtu.be/pe6yFaAfrT8) (Mert Cobanov)
+
+### Veri Görselleştirme
+* [Canlı Veri Görselleştirme, Grafana ve InfluxDB](https://medium.com/@mertcobanov/veri-g%C3%B6rselle%C5%9Ftirme-4-0-849a7903952b) (Mert Cobanov)
+
+
+
 ## FRAMEWORKS
 ### Caffe
 * [Caffe Kılavuzu - Tüm detaylarıyla Caffe ile çalışma rehberi](https://www.slideshare.net/bluekid/caffe-klavuzu) (Birol Kuyumcu)
@@ -140,6 +155,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 * [Windows İşletim Sistemi için Caffe Kurulumu](http://mesutpiskin.com/blog/windows-icin-caffe-kurulumu.html) (Mesut Pişkin)
 
 ### Keras
+* [Keras ile Nesne Tanıma Uygulamaları](https://medium.com/deep-learning-turkiye/keras-ile-nesne-tan%C4%B1ma-uygulamalar%C4%B1-5142e71aeadb) (Mert Cobanov)
 * [Keras'a Giriş-1](http://derindelimavi.blogspot.com.tr/2017/01/keras-giris-1.html) (Birol Kuyumcu)
 * [Keras'a Giriş-2 ( LSTM )](http://derindelimavi.blogspot.com.tr/2017/03/kerasa-giris-2-lstm.html) (Birol Kuyumcu)
 * [Keras Türkçe Dokümantasyon](https://github.com/kemalcanbora/keras_turkish_doc) (Kemalcan Bora)
@@ -148,6 +164,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 
 ### TensorFlow
+* [Tensorboard Başlangıç Rehberi](https://medium.com/deep-learning-turkiye/tensorboard-ba%C5%9Flang%C4%B1%C3%A7-rehberi-198ea522b01) (Mert Cobanov)
 * [TensorFlow ile Derin Öğrenmeye Giriş](https://emredurukn.github.io/2016/11/02/tensorflow-ile-derin-ogrenmeye-giris.html) (Emre Durukan)
 * [Tensorflow'u Anlamak](https://mcemilg.github.io/general/2017/11/23/tensorflow/) (M.Cemil Güney)
 * [Tensorflow Türkçe Eğitim Dökümanları](https://github.com/Aelvangunduz/tensorflow_tutorials) (Ayse Elvan Aydemir)
@@ -252,10 +269,15 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [235.000 Turkish Product Reviews](https://github.com/fthbrmnby/turkish-text-data)
 * [ODP TR-30 Turkish Search Result Clustering Dataset](https://github.com/faraday/odp-tr30) (Ç. Çallı, 2010)
 * [Modacruz ve Zara'da bulunan kıyafetlerin dataseti ](https://github.com/kemalcanbora/flora_fashion_scraping) (Kemalcan Bora)
+
 ## VİDEO DERSLER
 ### Genel
+* [Baştan Sona Makine Öğrenmesi Projesi](https://www.youtube.com/playlist?list=PLk54I7lqQSsbsxz-LWIOt6mrO5n0mpe-J) (Mert Cobanov)
+* [Feature Selection Teknikleri)(https://www.youtube.com/playlist?list=PLk54I7lqQSsZOYkUpeKaKJ1KLvqPhszJi) (Mert Cobanov)
+* [Pandas Egzersizleri](https://www.youtube.com/playlist?list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp) (Mert Cobanov)
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
 * [ODTÜ Görüntü Analizi Uygulama ve Araştırma Merkezi (OGAM) Yaz Okulu 2016](http://obayo.ogam.metu.edu.tr/videolar) (ODTÜ)
+* [En basit tanımlarla Makine Öğrenmesi Nedir?](https://youtu.be/mL7QuOOWzkg) (Mert Cobanov)
 
 ### Yapay Sinir Ağları
 * [Neural Network 1 : Eğitime ve Kavramlara Giriş](https://youtu.be/B5MmXmMMuvI) (Dr. Sadi Evren SEKER @BilgisayarKavramlari) {23 dakika}
@@ -269,6 +291,8 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Yapay Zeka Çağı | TEDxMETUAnkara](https://www.youtube.com/watch?v=d4kQVyAEsqA) (Dr. Şeyda Ertekin) {18 dakika}
 
 ### Bilgisayarlı Görü
+* [Deep Fake Rehberi](https://www.youtube.com/playlist?list=PLk54I7lqQSsayImrs1qyEunt7qlHZDa5S) (Mert Cobanov)
+* [VGG Nedir? Konvolüsyonel Sinir Ağları](https://youtu.be/tezYIXeo4c4) (Mert Cobanov)
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 1/2](https://www.youtube.com/watch?v=Y087JVjzw-Y) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {60 dakika}
 * [Uzaktan Algılanmış Görüntülerin Piksel Düzeyinde Sınıflandırılması Bölüm 2/2](https://www.youtube.com/watch?v=EAYNMnMBqnA) (Erhan Abdullah (Erchan Aptoula) @Data İstanbul) {30 dakika}
 * [Derin Öğrenmeye Derinlemesine Dalış](https://www.youtube.com/watch?v=zJPW6Lyf_Xs) (Şefik İlkin Serengil @Softtech Sahnesi) {52 dakika}
