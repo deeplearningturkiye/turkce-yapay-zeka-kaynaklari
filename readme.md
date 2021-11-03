@@ -252,6 +252,7 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [235.000 Turkish Product Reviews](https://github.com/fthbrmnby/turkish-text-data)
 * [ODP TR-30 Turkish Search Result Clustering Dataset](https://github.com/faraday/odp-tr30) (Ç. Çallı, 2010)
 * [Modacruz ve Zara'da bulunan kıyafetlerin dataseti ](https://github.com/kemalcanbora/flora_fashion_scraping) (Kemalcan Bora)
+* [Türkçe şiirlerin verisetleri ](https://github.com/Mrjavaci/Turkish-Poems) (Mrjavaci - Osman Taha Kıyıcılar 2021)
 ## VİDEO DERSLER
 ### Genel
 * [Ankara Deep Learning - Derin Öğrenme Etkinliği 1](https://youtu.be/K74rzKSsGs8) (Ferhat Kurt) {96 dakika}
