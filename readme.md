@@ -40,6 +40,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 
 ## TEMEL KONULAR
 * [Temel: Şu Kara Kutuyu Açalım: Yapay Sinir Ağları](https://medium.com/deep-learning-turkiye/%C5%9Fu-kara-kutuyu-a%C3%A7alim-yapay-sinir-a%C4%9Flar%C4%B1-7b65c6a5264a) (Merve Ayyüce Kızrak)
+* [Eğitim Verisi Nereden Gelir, Neden Önemlidir?](https://yzdersleri.com/ders/egitim-verisi-nereden-gelir-neden-onemlidir/) (Yapay Zekâ Dersleri)
 * [Motivasyon: Yapay Zeka ve Derin Öğrenmenin Hikayesi](https://medium.com/deep-learning-turkiye/motivasyon-yapay-zeka-ve-derin-%C3%B6%C4%9Frenme-48d09355388d) (Merve Ayyüce Kızrak)
 * [Derin Öğrenme Başlangıç Seti - Donanım Ve Yazılım](http://www.ardamavi.com/2017/10/derin-ogrenme-baslangic-seti.html) (Arda Mavi)
 * [Yapay Zeka - Düşünen Ve Üreten Makinelerin Doğuşu](http://www.ardamavi.com/2017/09/yapay-zekanin-gelecegi.html) (Arda Mavi)
@@ -126,6 +127,7 @@ Sayfaya yeni kaynak eklemek için: [Katkıda bulunma rehberi](contributing.md) a
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
 
 ### Bilgisayarlı Görü (Computer Vision)
+* [Fotoğraftaki Nesneyi Nasıl Tanır? Bilgisayarlı Görü](https://yzdersleri.com/ders/fotograftaki-nesneyi-nasil-tanir-bilgisayarli-goru/) (Yapay Zekâ Dersleri)
 * [Optik Karakter Tanıma, Yazı Tanıma (Optical Character Recognition -OCR-)](https://burakbayramli.github.io/dersblog/algs/ocr/optik_karakter_tanima_yazi_tanima__optical_character_recognition_ocr_.html) (Burak Bayramlı)
 * [YOLO: Gerçek Zamanlı Nesne Tespiti Kütüphanesi (Darknet) Kurulumu](http://blog.yavuzz.com/post/gercek-zamanli-nesne-tespiti-kutuphanesi-darknet-kurulumu) (Yavuz Kömeçoğlu)
 * [YOLO'da Kendi Özel Kişi yada Nesnemizin Algılanmasını Nasıl Sağlarız?](http://blog.yavuzz.com/post/yolo-da-kendi-ozel-nesnemizin-algilanmasini-nasil-saglariz) (Yavuz Kömeçoğlu)
